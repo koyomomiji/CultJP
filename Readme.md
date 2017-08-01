@@ -1,3 +1,6 @@
-Call of Cthulhu - Cults http://steamcommunity.com/sharedfiles/filedetails/?id=815039373  の日本語翻訳ファイル  
-Steamリンク http://steamcommunity.com/sharedfiles/filedetails/?id=1097145368  
-改訳案を募集します
+*Call of Cthulhu - Cults http://steamcommunity.com/sharedfiles/filedetails/?id=815039373  縺ｮ譌･譛ｬ隱樒ｿｻ險ｳ繝輔ぃ繧､繝ｫ *
+
+Steam繝ｪ繝ｳ繧ｯ http://steamcommunity.com/sharedfiles/filedetails/?id=1097145368  
+
+
+隱､險ｳ縺ｮ蝣ｱ蜻翫∵隼險ｳ譯医ｒ蜍滄寔縺励※縺�縺ｾ縺吶�
