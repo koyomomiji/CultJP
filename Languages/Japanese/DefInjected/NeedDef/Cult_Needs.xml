@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CultMindedness.label>信仰心</CultMindedness.label>
+  <CultMindedness.description>信仰心は入植者が宗教に対する受容度を示します。\n\n もし上の閾値を越えたなら崇拝者になります。\n\n下の閾値を下回ったなら崇拝者と宗教に対して敵対的になります。</CultMindedness.description>
+</LanguageData>

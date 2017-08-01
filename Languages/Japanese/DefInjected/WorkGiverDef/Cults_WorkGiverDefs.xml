@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LoadTransportersPawn.label>輸送装置に積む</LoadTransportersPawn.label>
+  <LoadTransportersPawn.verb>積む</LoadTransportersPawn.verb>
+  <LoadTransportersPawn.gerund>積載</LoadTransportersPawn.gerund>
+
+  <PruneAndRepair.label>損傷した物の修理</PruneAndRepair.label>
+  <PruneAndRepair.verb>刈り取りと修理をする</PruneAndRepair.verb>
+  <PruneAndRepair.gerund>刈り取りと修理</PruneAndRepair.gerund>
+
+
+</LanguageData>

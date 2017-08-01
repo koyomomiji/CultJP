@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Cult social interactions -->
+  <Cults_SafePreach.stages.0.label>教義を共有した</Cults_SafePreach.stages.0.label>
+  <Cults_DangerPreach.stages.0.label>信仰を非難された</Cults_DangerPreach.stages.0.label>
+  <Cults_MidnightInquisitionThought.stages.0.label>司祭を攻撃した</Cults_MidnightInquisitionThought.stages.0.label>
+  <Cults_MidnightInquisitionThought.stages.0.description>私達はこの事態に自ら対処しなければいけなかった。宗教？そんなものは終わるべきだ。</Cults_MidnightInquisitionThought.stages.0.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Added body parts -->
+  <Cults_PsionicBrain.label>超能力の脳葉</Cults_PsionicBrain.label>
+  <Cults_TentacleArm.label>触手</Cults_TentacleArm.label>
+  <Cults_CthulhidTentacle.label>落とし子の触手</Cults_CthulhidTentacle.label>
+  <Cults_CthulhidEyestalk.label>恐ろしい眼柄</Cults_CthulhidEyestalk.label>
+  <Cults_MonstrousBrain.label>異形の脳</Cults_MonstrousBrain.label>
+  <Cults_MonstrousBody.label>異形の体</Cults_MonstrousBody.label>
+</LanguageData>

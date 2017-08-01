@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROM_DeepOneAlt.label>深きものども</ROM_DeepOneAlt.label>
+  <ROM_DeepOneAlt.description>...</ROM_DeepOneAlt.description>
+  <ROM_DeepOneAlt.pawnsPlural>深きものども</ROM_DeepOneAlt.pawnsPlural>
+  <ROM_DeepOneAlt.fixedName>虫</ROM_DeepOneAlt.fixedName>
+  <Cults_Sailors.label>船員</Cults_Sailors.label>
+  <Cults_Sailors.description>陸に打ち上げられた海で働く人達。</Cults_Sailors.description>
+  <Cults_Sailors.pawnsPlural>船員</Cults_Sailors.pawnsPlural>
+  <Cults_Sailors.fixedName>船員</Cults_Sailors.fixedName>
+</LanguageData>

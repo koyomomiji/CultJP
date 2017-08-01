@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_FertilityTotem.label>豊穣のトーテム</Cults_FertilityTotem.label>
+  <Cults_FertilityTotem.description>トーテムは1シーズン周囲の作物の成長速度を増加させます。</Cults_FertilityTotem.description>
+  <Cults_FertilityTotem_Blueprint_Install.label>豊穣のトーテム (設計図)</Cults_FertilityTotem_Blueprint_Install.label>
+  <Cults_SunkenShipChunk.label>沈没船の残骸</Cults_SunkenShipChunk.label>
+  <Cults_SunkenShipChunk.description>船の残骸。解体して資材を得ることができます。
+</Cults_SunkenShipChunk.description>
+  <Cults_TreasureChest.label>宝箱</Cults_TreasureChest.label>
+  <Cults_TreasureChest.description>中の貴重な品を安全に保つために施錠し密閉された箱</Cults_TreasureChest.description>
+  <Cults_TreasureChest_Relic.label>古い宝箱</Cults_TreasureChest_Relic.label>
+  <Cults_TreasureChest_Relic.description>中の貴重な品を安全に保つために施錠し密閉された箱</Cults_TreasureChest_Relic.description>
+  <Cults_LandedShip.label>打ち上げられた船</Cults_LandedShip.label>
+  <Cults_LandedShip.description>ダゴンによって海から持ち去られた船。 AI人格コアなどの素材が含まれています。 狂気にまみれた船員がそれを囲んでいることに注意してください。</Cults_LandedShip.description>
+  <Cults_MonolithNightmare.label>モノリス
+</Cults_MonolithNightmare.label>
+  <Cults_MonolithNightmare.description>神秘的な直立した石。 陰気なオーラを放っている。</Cults_MonolithNightmare.description>
+  <Cults_MonolithNightmare_Blueprint_Install.label>モノリス (設計図)</Cults_MonolithNightmare_Blueprint_Install.label>
+</LanguageData>

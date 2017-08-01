@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Entity_Cthulhu.label>クトゥルフ</Entity_Cthulhu.label>
+  <Entity_Cthulhu.description>夢見るままに待ちたり</Entity_Cthulhu.description>
+  <Entity_Dagon.label>ダゴン</Entity_Dagon.label>
+  <Entity_Dagon.description>太古より生き永らえる深きものどもの長</Entity_Dagon.description>
+  <Entity_Shub.label>シュブ=ニグラス</Entity_Shub.label>
+  <Entity_Shub.description>千匹の仔を孕みし森の黒山羊</Entity_Shub.description>
+  <Entity_Nyarlathotep.label>ニャルラトホテプ</Entity_Nyarlathotep.label>
+  <Entity_Nyarlathotep.description>外なる神の強壮なる使者</Entity_Nyarlathotep.description>
+  <Entity_Hastur.label>ハスター</Entity_Hastur.label>
+  <Entity_Hastur.description>かの黄の王国から名状し難い者は視ている</Entity_Hastur.description>
+</LanguageData>

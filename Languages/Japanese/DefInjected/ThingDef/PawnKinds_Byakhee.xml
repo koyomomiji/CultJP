@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RACE DEFS -->
+
+  <Cults_ByakheeRace.label>バイアクヘー</Cults_ByakheeRace.label>
+  <Cults_ByakheeRace.description>Interstellar predators that can travel through the vacuum of space by means of an organ known as the "hune," Byakhee are said to be servants of Hastur the Unspeakable. Through this servitude, Byakhee have been observed being mounted by the faithful to the Yellow Sign.</Cults_ByakheeRace.description>
+  <Cults_ByakheeRace_Leather.label>バイアクヘーの皮</Cults_ByakheeRace_Leather.label>
+  <Cults_ByakheeRace_Leather.description>byakheeの皮</Cults_ByakheeRace_Leather.description>
+  <Cults_ByakheeRace_Leather.stuffProps.stuffAdjective>バイアクヘーの皮</Cults_ByakheeRace_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <Cults_ByakheeRace_Corpse.label>バイアクヘーの死骸</Cults_ByakheeRace_Corpse.label>
+  <Cults_ByakheeRace_Corpse.description>Byakheeの死骸</Cults_ByakheeRace_Corpse.description>
+
+
+</LanguageData>

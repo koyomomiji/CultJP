@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CultIncident_StarsAreWrong.label>粗末な星辰</CultIncident_StarsAreWrong.label>
+  <CultIncident_StarsAreWrong.letterText>宇宙の正しい星辰は守られず、まるで星自身が憎しみを込めた嘲笑と共に私たちの目を刺すようです。</CultIncident_StarsAreWrong.letterText>
+  <CultIncident_StarsAreWrong.letterLabel>粗末な星辰</CultIncident_StarsAreWrong.letterLabel>
+  <CultIncident_StarsAreRight.label>正しき星辰</CultIncident_StarsAreRight.label>
+  <CultIncident_StarsAreRight.letterText>星系の惑星達は直列しています。かの者たちが植民者を呼んでいます。</CultIncident_StarsAreRight.letterText>
+  <CultIncident_StarsAreRight.letterLabel>正しき星辰</CultIncident_StarsAreRight.letterLabel>
+  <!-- Cult Seed Incidents -->
+  <CultSeedIncident_TreeOfNightmares.label>悪夢の木</CultSeedIncident_TreeOfNightmares.label>
+  <CultSeedIncident_TreeOfNightmares.description>これはなんだ？</CultSeedIncident_TreeOfNightmares.description>
+  <CultSeedIncident_TreeOfNightmares.letterLabel>悪夢の木</CultSeedIncident_TreeOfNightmares.letterLabel>
+  <CultSeedIncident_TreeOfNightmares.letterText>それは死んでいった全ての人の魂を見つめています。</CultSeedIncident_TreeOfNightmares.letterText>
+  <CultSeedIncident_NightmareMonolith.label>モノリス</CultSeedIncident_NightmareMonolith.label>
+  <CultSeedIncident_NightmareMonolith.description>これはなんだ？</CultSeedIncident_NightmareMonolith.description>
+  <CultSeedIncident_NightmareMonolith.letterLabel>モノリス</CultSeedIncident_NightmareMonolith.letterLabel>
+  <CultSeedIncident_NightmareMonolith.letterText>それは死んでいった全ての人の魂を見つめています。</CultSeedIncident_NightmareMonolith.letterText>
+</LanguageData>

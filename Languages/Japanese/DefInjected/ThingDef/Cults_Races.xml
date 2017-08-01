@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_BlackGoat.label>クロヤギ</Cults_BlackGoat.label>
+  <Cults_BlackGoat.description>Black goats are mysterious creatures that live in almost any climate. Their diet is also unknown. Legends tell about them being the spawn of some obscene monstrosity known as the Black Goat Mother that exists outside of the reality we understand as our dimension.</Cults_BlackGoat.description>
+  <Cults_BlackGoat_Leather.label>クロヤギの皮</Cults_BlackGoat_Leather.label>
+  <Cults_BlackGoat_Leather.description>black goatの皮</Cults_BlackGoat_Leather.description>
+  <Cults_BlackGoat_Leather.stuffProps.stuffAdjective>クロヤギの皮</Cults_BlackGoat_Leather.stuffProps.stuffAdjective>
+  <Cults_BlackGoat_Meat.label>クロヤギの肉</Cults_BlackGoat_Meat.label>
+  <Cults_BlackGoat_Meat.description>black goatの肉</Cults_BlackGoat_Meat.description>
+  <Cults_BlackGoat_Corpse.label>クロヤギの死骸</Cults_BlackGoat_Corpse.label>
+  <Cults_BlackGoat_Corpse.description>black goatの死骸</Cults_BlackGoat_Corpse.description>
+  <!-- Zombie -->
+  <ReanimatedCorpse.label>ゾンビ</ReanimatedCorpse.label>
+  <ReanimatedCorpse.description>Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.</ReanimatedCorpse.description>
+  <ReanimatedCorpse_Leather.label>ゾンビの皮</ReanimatedCorpse_Leather.label>
+  <ReanimatedCorpse_Leather.description>reanimated corpseの皮</ReanimatedCorpse_Leather.description>
+  <ReanimatedCorpse_Leather.stuffProps.stuffAdjective>ゾンビの皮</ReanimatedCorpse_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <ReanimatedCorpse_Corpse.label>ゾンビの死骸</ReanimatedCorpse_Corpse.label>
+  <ReanimatedCorpse_Corpse.description>reanimated corpseの死骸</ReanimatedCorpse_Corpse.description>
+</LanguageData>

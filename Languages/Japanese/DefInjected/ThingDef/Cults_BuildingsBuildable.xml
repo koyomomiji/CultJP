@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- <ThingDef ParentName="BuildingBase">
+    <defName>ThreeTileMarriageSpot</defName>
+    <label>結婚を誓う場 3x1</label>
+    <Description>結婚式を執り行う場所を指定します。列席者は反対側で式に参列します。神殿用。</Description>
+    <thingClass>Building_MarriageSpot</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Misc/MarriageSpot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,1)</drawSize>
+    </graphicData>
+    <AltitudeLayer>FloorEmplacement</AltitudeLayer>
+    <statBases>
+      <WorkToBuild>0</WorkToBuild>
+    </statBases>
+    <useHitPoints>False</useHitPoints>
+		<scatterableOnMapGen>false</scatterableOnMapGen>
+		<Size>(3,1)</Size>
+    <DesignationCategory>Misc</DesignationCategory>
+    <Passability>Standable</Passability>
+    <building>
+      <sowTag>SupportPlantsOnly</sowTag>
+      <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+    </building>
+    <designationHotkey>Misc10</designationHotkey>
+  </ThingDef> -->
+  <Cults_SignOfDagon.label>ダゴンの印</Cults_SignOfDagon.label>
+  <Cults_SignOfDagon.description>守護者として現れた深きものはこの印の付近を徘徊します。コロニーの外に置くことを推奨します。一度到着した守護者は死ぬまでこの円が生成された場所を守ります。入植者が近づくことは避けてください。</Cults_SignOfDagon.description>
+  <Cults_SignOfDagon_Blueprint.label>ダゴンの印(設計図)</Cults_SignOfDagon_Blueprint.label>
+  <Cults_SignOfDagon_Frame.label>ダゴンの印(作成中)</Cults_SignOfDagon_Frame.label>
+  <Cults_SignOfDagon_Frame.description>守護者として現れた深きものはこの印の付近を徘徊します。コロニーの外に置くことを推奨します。一度到着した守護者は死ぬまでこの円が生成された場所を守ります。入植者が近づくことは避けてください。</Cults_SignOfDagon_Frame.description>
+  <Cults_PewLinkable.label>連結式ベンチ</Cults_PewLinkable.label>
+  <Cults_PewLinkable.description>信者が儀式を座って見るための連結式の長椅子。</Cults_PewLinkable.description>
+  <Cults_PewLinkable_Blueprint.label>連結式ベンチ (設計図)</Cults_PewLinkable_Blueprint.label>
+  <Cults_PewLinkable_Frame.label>連結式ベンチ (作成中)</Cults_PewLinkable_Frame.label>
+  <Cults_PewLinkable_Frame.description>信者が儀式を座って見るための連結式の長椅子。</Cults_PewLinkable_Frame.description>
+  <Cults_ForbiddenKnowledgeCenter.label>禁忌の知識研究設備</Cults_ForbiddenKnowledgeCenter.label>
+  <Cults_ForbiddenKnowledgeCenter.description>奇妙なシンボル、覚え書き、そして禁忌の知識の書が乗った簡素なテーブル。研究者は宗教を研究する時はここで作業します。継続的な使用は結果としてその者の正気を削ります。</Cults_ForbiddenKnowledgeCenter.description>
+  <Cults_ForbiddenKnowledgeCenter_Blueprint.label>禁忌の知識研究設備 (設計図)</Cults_ForbiddenKnowledgeCenter_Blueprint.label>
+  <Cults_ForbiddenKnowledgeCenter_Blueprint_Install.label>禁忌の知識研究設備 (設計図)</Cults_ForbiddenKnowledgeCenter_Blueprint_Install.label>
+  <Cults_ForbiddenKnowledgeCenter_Frame.label>禁忌の知識研究設備 (作成中)</Cults_ForbiddenKnowledgeCenter_Frame.label>
+  <Cults_ForbiddenKnowledgeCenter_Frame.description>奇妙なシンボル、覚え書き、そして禁忌の知識の書が乗った簡素なテーブル。研究者は宗教を研究する時はここで作業します。継続的な使用は結果としてその者の正気を削ります。</Cults_ForbiddenKnowledgeCenter_Frame.description>
+  <Cult_SacrificialAltar.label>祭壇</Cult_SacrificialAltar.label>
+  <Cult_SacrificialAltar.description>外宇宙の者への礼拝を行うための硬い壇。</Cult_SacrificialAltar.description>
+  <Cult_SacrificialAltar_Blueprint.label>祭壇 (設計図)</Cult_SacrificialAltar_Blueprint.label>
+  <Cult_SacrificialAltar_Blueprint_Install.label>祭壇 (設計図)</Cult_SacrificialAltar_Blueprint_Install.label>
+  <Cult_SacrificialAltar_Frame.label>祭壇 (作成中)</Cult_SacrificialAltar_Frame.label>
+  <Cult_SacrificialAltar_Frame.description>外宇宙の者への礼拝を行うための硬い壇。</Cult_SacrificialAltar_Frame.description>
+  <Cult_AnimalSacrificeAltar.label>生贄の祭壇</Cult_AnimalSacrificeAltar.label>
+  <Cult_AnimalSacrificeAltar.description>虚弱で強力な存在に生贄を捧げるための硬い壇。 血液を流し集めるように設計されています。</Cult_AnimalSacrificeAltar.description>
+  <Cult_AnimalSacrificeAltar_Blueprint_Install.label>生贄の祭壇 (設計図)</Cult_AnimalSacrificeAltar_Blueprint_Install.label>
+  <Cult_HumanSacrificeAltar.label>生贄の祭壇</Cult_HumanSacrificeAltar.label>
+  <Cult_HumanSacrificeAltar.description>虚弱で強力な存在に生贄を捧げるための硬い壇。 血液を流し集めるように設計されています。</Cult_HumanSacrificeAltar.description>
+  <Cult_HumanSacrificeAltar_Blueprint_Install.label>生贄の祭壇 (設計図)</Cult_HumanSacrificeAltar_Blueprint_Install.label>
+  <!-- BUILDABLE OBELISKS -->
+  <Cults_ObeliskConstructed_Red.label>オベリスク (赤)</Cults_ObeliskConstructed_Red.label>
+  <Cults_ObeliskConstructed_Red.description>神秘的な直立した石のブロック。 それは特別な赤いオーラに恵まれています。</Cults_ObeliskConstructed_Red.description>
+  <Cults_ObeliskConstructed_Red_Blueprint.label>オベリスク (赤) (設計図)</Cults_ObeliskConstructed_Red_Blueprint.label>
+  <Cults_ObeliskConstructed_Red_Blueprint_Install.label>オベリスク (赤) (設計図)</Cults_ObeliskConstructed_Red_Blueprint_Install.label>
+  <Cults_ObeliskConstructed_Red_Frame.label>オベリスク (赤) (作成中)</Cults_ObeliskConstructed_Red_Frame.label>
+  <Cults_ObeliskConstructed_Red_Frame.description>神秘的な直立した石のブロック。 それは特別な赤いオーラに恵まれています。</Cults_ObeliskConstructed_Red_Frame.description>
+  <Cults_ObeliskConstructed_Green.label>オベリスク (緑)</Cults_ObeliskConstructed_Green.label>
+  <Cults_ObeliskConstructed_Green.description>神秘的な直立した石のブロック。 それは特別な緑のオーラに恵まれています。</Cults_ObeliskConstructed_Green.description>
+  <Cults_ObeliskConstructed_Green_Blueprint.label>オベリスク (緑) (設計図)</Cults_ObeliskConstructed_Green_Blueprint.label>
+  <Cults_ObeliskConstructed_Green_Blueprint_Install.label>オベリスク (緑) (設計図)</Cults_ObeliskConstructed_Green_Blueprint_Install.label>
+  <Cults_ObeliskConstructed_Green_Frame.label>オベリスク (緑) (作成中)</Cults_ObeliskConstructed_Green_Frame.label>
+  <Cults_ObeliskConstructed_Green_Frame.description>神秘的な直立した石のブロック。 それは特別な緑のオーラに恵まれています。</Cults_ObeliskConstructed_Green_Frame.description>
+  <Cults_ObeliskConstructed_Blue.label>オベリスク (青)</Cults_ObeliskConstructed_Blue.label>
+  <Cults_ObeliskConstructed_Blue.description>神秘的な直立した石のブロック。 それは特別な青いオーラに恵まれています。</Cults_ObeliskConstructed_Blue.description>
+  <Cults_ObeliskConstructed_Blue_Blueprint.label>オベリスク (青) (設計図)</Cults_ObeliskConstructed_Blue_Blueprint.label>
+  <Cults_ObeliskConstructed_Blue_Blueprint_Install.label>オベリスク (青) (設計図)</Cults_ObeliskConstructed_Blue_Blueprint_Install.label>
+  <Cults_ObeliskConstructed_Blue_Frame.label>オベリスク (青) (作成中)</Cults_ObeliskConstructed_Blue_Frame.label>
+  <Cults_ObeliskConstructed_Blue_Frame.description>神秘的な直立した石のブロック。 それは特別な青いオーラに恵まれています。</Cults_ObeliskConstructed_Blue_Frame.description>
+  <Cults_ObeliskConstructed_Yellow.label>オベリスク (黄)</Cults_ObeliskConstructed_Yellow.label>
+  <Cults_ObeliskConstructed_Yellow.description>神秘的な直立した石のブロック。 それは特別な黄色のオーラに恵まれています。</Cults_ObeliskConstructed_Yellow.description>
+  <Cults_ObeliskConstructed_Yellow_Blueprint.label>オベリスク (黄) (設計図)</Cults_ObeliskConstructed_Yellow_Blueprint.label>
+  <Cults_ObeliskConstructed_Yellow_Blueprint_Install.label>オベリスク (黄) (設計図)</Cults_ObeliskConstructed_Yellow_Blueprint_Install.label>
+  <Cults_ObeliskConstructed_Yellow_Frame.label>オベリスク (黄) (作成中)</Cults_ObeliskConstructed_Yellow_Frame.label>
+  <Cults_ObeliskConstructed_Yellow_Frame.description>神秘的な直立した石のブロック。 それは特別な黄色のオーラに恵まれています。</Cults_ObeliskConstructed_Yellow_Frame.description>
+</LanguageData>

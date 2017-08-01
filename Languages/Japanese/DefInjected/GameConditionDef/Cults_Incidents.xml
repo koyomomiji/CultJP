@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CultGameCondition_StarsAreWrong.label>粗末な星辰</CultGameCondition_StarsAreWrong.label>
+  <CultGameCondition_StarsAreWrong.description>宇宙の正しい星辰は守られず、まるで星自身が憎しみを込めた嘲笑と共に私たちの目を刺すようです。この期間の生贄は推奨されません。</CultGameCondition_StarsAreWrong.description>
+  <CultGameCondition_StarsAreWrong.endMessage>星々はいつも通りの位置に戻った</CultGameCondition_StarsAreWrong.endMessage>
+  <CultGameCondition_StarsAreRight.label>正しき星辰</CultGameCondition_StarsAreRight.label>
+  <CultGameCondition_StarsAreRight.description>幸運なことに星系の惑星達は直列しています。 植物や動物が繁栄し、儀式の生贄にボーナスが与えられます。</CultGameCondition_StarsAreRight.description>
+  <CultGameCondition_StarsAreRight.endMessage>星々はもう直列していない</CultGameCondition_StarsAreRight.endMessage>
+</LanguageData>

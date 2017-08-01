@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Cult Seed Incidents -->
+  <Cults_ObservedNightmareTree.stages.0.label>禍々しい木を視た</Cults_ObservedNightmareTree.stages.0.label>
+  <Cults_ObservedNightmareTree.stages.0.description>あの木…以前はなかったはずだ。</Cults_ObservedNightmareTree.stages.0.description>
+  <Cults_ObservedNightmareTreeCultist.stages.0.label>聖なる木を視た</Cults_ObservedNightmareTreeCultist.stages.0.label>
+  <Cults_ObservedNightmareTreeCultist.stages.0.description>あのような素晴らしいものは残さなければ。</Cults_ObservedNightmareTreeCultist.stages.0.description>
+  <Cults_ObservedNightmareMonolith.stages.0.label>モノリスを視た</Cults_ObservedNightmareMonolith.stages.0.label>
+  <Cults_ObservedNightmareMonolith.stages.0.description>いつのまにこんなものが？あのシンボルは何を意味するんだ？悪寒を感じる。</Cults_ObservedNightmareMonolith.stages.0.description>
+  <Cults_ObservedNightmareMonolithCultist.stages.0.label>モノリスを視た</Cults_ObservedNightmareMonolithCultist.stages.0.label>
+  <Cults_ObservedNightmareMonolithCultist.stages.0.description>このシンボルは神からの印。保存しなければ。</Cults_ObservedNightmareMonolithCultist.stages.0.description>
+  <!-- Cultist Status Thought Memories -->
+  <Cults_FoundedCult.stages.0.label>土着の宗教を設立した</Cults_FoundedCult.stages.0.label>
+  <Cults_FoundedCultMood.stages.0.label>宗教を設立した</Cults_FoundedCultMood.stages.0.label>
+  <Cults_FoundedCultMood.stages.0.description>皆にこれを伝えなければ。今や全てが明白であり、彼らは真実を知らねばならない。大いなるものが待っている。</Cults_FoundedCultMood.stages.0.description>
+  <Cults_JoinedCult.stages.0.label>土着の宗教に加入した</Cults_JoinedCult.stages.0.label>
+  <Cults_JoinedCultMood.stages.0.label>宗教に加入した</Cults_JoinedCultMood.stages.0.label>
+  <Cults_JoinedCultMood.stages.0.description>今や私は大いなるものの一部だ。</Cults_JoinedCultMood.stages.0.description>
+  <Cults_MadeInvestigation.stages.0.label>奇妙なものを調査した</Cults_MadeInvestigation.stages.0.label>
+  <Cults_MadeInvestigationMood.stages.0.label>調査をした</Cults_MadeInvestigationMood.stages.0.label>
+  <Cults_MadeInvestigationMood.stages.0.description>ι нανє ℓσσкє∂ υρσи αℓℓ тнαт тнє υиινєяѕє нαѕ тσ нσℓ∂ σf нσяяσя, αи∂ єνєи тнє ѕкιєѕ σf ѕρяιиg αи∂ тнє fℓσωєяѕ σf ѕυммєя мυѕт єνєя αfтєяωαя∂ вє ρσιѕσи тσ мє.̤̤</Cults_MadeInvestigationMood.stages.0.description>
+  <Cults_BlackoutBook.stages.0.label>魔導書を得た</Cults_BlackoutBook.stages.0.label>
+  <Cults_BlackoutBook.stages.0.description>失神していた。よく覚えていないがこの本を書いていた時、誰かが私の名前呼んでいた。私はイカれたのか？</Cults_BlackoutBook.stages.0.description>
+</LanguageData>

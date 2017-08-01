@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Psionic Blast -->
+  <Cults_PFlyingObject.label>飛翔物</Cults_PFlyingObject.label>
+  <!-- Force Push -->
+  <Cults_PPsionicBlast.label>サイオニックブラスト</Cults_PPsionicBlast.label>
+  <Cults_PPsionicShock.label>サイオニックショック</Cults_PPsionicShock.label>
+  <Cults_PPsionicBurn.label>サイオニックバーン</Cults_PPsionicBurn.label>
+  <!-- Psionic Blast -->
+  <Cults_PsionicBlast.label>サイオニックブラスト</Cults_PsionicBlast.label>
+  <Cults_PsionicBlast.description>対象者を8タイル先に押しやります。</Cults_PsionicBlast.description>
+  <Cults_PsionicShock.label>Psionic Shock</Cults_PsionicShock.label>
+  <Cults_PsionicShock.description>対象者の脳を麻痺させます。クリティカル時に対象の頭部は爆発します。</Cults_PsionicShock.description>
+  <Cults_PsionicBurn.label>サイオニックバーン</Cults_PsionicBurn.label>
+  <Cults_PsionicBurn.description>対象に着火します。</Cults_PsionicBurn.description>
+</LanguageData>

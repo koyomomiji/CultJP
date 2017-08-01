@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Ideal Spells -->
+  <Cults_SpellFavor.label>賛美</Cults_SpellFavor.label>
+  <Cults_SpellFavor.letterText>宇宙と時間を超えて超自然の存在を感じる。</Cults_SpellFavor.letterText>
+  <Cults_SpellFavor.letterLabel>\nお目に止められるために</Cults_SpellFavor.letterLabel>
+  <Cults_SpellFavor.description>は見返りを望まずに生贄を捧げた。</Cults_SpellFavor.description>
+  <!-- Cthulhu -->
+  <Cults_SpellPsionicGrowth.label>超能力の腫瘍</Cults_SpellPsionicGrowth.label>
+  <Cults_SpellPsionicGrowth.description>植民者の脳内に特殊な腫瘍を形成し、強力な超能力攻撃を獲得します。</Cults_SpellPsionicGrowth.description>
+  <Cults_SpellPsionicGrowth.letterLabel>\n超能力を得るために</Cults_SpellPsionicGrowth.letterLabel>
+  <Cults_SpellPsionicGrowth.letterText>は頭の中に強い圧力を感じた後、新鮮で奇妙な視界で世界を見れるようになっていた</Cults_SpellPsionicGrowth.letterText>
+  <Cults_SpellAspectOfCthulhu.label>クトゥルフの貌</Cults_SpellAspectOfCthulhu.label>
+  <Cults_SpellAspectOfCthulhu.description>入植者の手足の一つを強靭な触手へと変異させます。</Cults_SpellAspectOfCthulhu.description>
+  <Cults_SpellAspectOfCthulhu.letterLabel>\n異形の体を得るために</Cults_SpellAspectOfCthulhu.letterLabel>
+  <Cults_SpellAspectOfCthulhu.letterText>は恐る恐る周囲を見渡すと誰がクトゥルフの祝福を受けたかは明白だった</Cults_SpellAspectOfCthulhu.letterText>
+  <Cults_SpellOrbitalInsanityWave.label>軌道上への狂気の波</Cults_SpellOrbitalInsanityWave.label>
+  <Cults_SpellOrbitalInsanityWave.description>遥か彼方上空に強力な狂気の念波を放ちます。影響を受けた船は近辺に落ちてしまうでしょう。</Cults_SpellOrbitalInsanityWave.description>
+  <Cults_SpellOrbitalInsanityWave.letterLabel>\n頭上を通る船に虚無へ誘う夢を念波として放つために</Cults_SpellOrbitalInsanityWave.letterLabel>
+  <Cults_SpellOrbitalInsanityWave.letterText>は狂気の波は船に届き、付近に堕ちると感じた。</Cults_SpellOrbitalInsanityWave.letterText>
+  <Cults_SpellTerrestrialInsanityWave.label>地上への狂気の波</Cults_SpellTerrestrialInsanityWave.label>
+  <Cults_SpellTerrestrialInsanityWave.description>地上に強力な狂気の念波を放ちます。敵は全て狂気によってズタボロにされるでしょう。</Cults_SpellTerrestrialInsanityWave.description>
+  <Cults_SpellTerrestrialInsanityWave.letterLabel>\n敵を摩耗させる狂気の波を放つために</Cults_SpellTerrestrialInsanityWave.letterLabel>
+  <Cults_SpellTerrestrialInsanityWave.letterText>はクトゥルフが敵を狂気へ堕としたことで、勝利を喜び叫んだ</Cults_SpellTerrestrialInsanityWave.letterText>
+  <Cults_SpellAwakenCthulhu.label>クトゥルフの目覚め</Cults_SpellAwakenCthulhu.label>
+  <Cults_SpellAwakenCthulhu.description>[ゲームクリア呪文]\nクトゥルフの目覚めが及ぼす影響は不明です。</Cults_SpellAwakenCthulhu.description>
+  <Cults_SpellAwakenCthulhu.letterLabel>\n長い眠りから彼を目覚めさせ、現実世界の支配を始めるために</Cults_SpellAwakenCthulhu.letterLabel>
+  <Cults_SpellAwakenCthulhu.letterText>は偉大なるクトゥルフが目を覚まし、心が蝕まれるのを感じる 現実が薄く薄く引き伸ばされ薄れていく</Cults_SpellAwakenCthulhu.letterText>
+  <!-- Dagon -->
+  <Cults_SpellSunkenShip.label>沈没船</Cults_SpellSunkenShip.label>
+  <Cults_SpellSunkenShip.description>木や鉄、プラスチール、コンポーネントに分解できるような、古代の遺物を深海から届けます。</Cults_SpellSunkenShip.description>
+  <Cults_SpellSunkenShip.letterLabel>\n切羽詰まり、または貪欲に海から富を届けてもらうために</Cults_SpellSunkenShip.letterLabel>
+  <Cults_SpellSunkenShip.letterText>は海に沈んだ遺物が見つかるビジョンを視た</Cults_SpellSunkenShip.letterText>
+  <Cults_SpellTreasuresOfTheDeep.label>深海の宝物</Cults_SpellTreasuresOfTheDeep.label>
+  <Cults_SpellTreasuresOfTheDeep.description>深海に沈んだ古代の船からの翡翠、銀、金などの貴重な資源でいっぱいの宝箱をもたらします。</Cults_SpellTreasuresOfTheDeep.description>
+  <Cults_SpellTreasuresOfTheDeep.letterLabel>/n切羽詰まり、または貪欲に海から富を届けてもらうために</Cults_SpellTreasuresOfTheDeep.letterLabel>
+  <Cults_SpellTreasuresOfTheDeep.letterText>は彼らが持ってきたことを示す湿った手形のついた宝箱を見つけた</Cults_SpellTreasuresOfTheDeep.letterText>
+  <Cults_SpellDefendTheBrood.label>種族の守護</Cults_SpellDefendTheBrood.label>
+  <Cults_SpellDefendTheBrood.description>コロニーを守護するために深きものどもを召喚します。 この呪文を唱える前にダゴンの印を設置することを推奨します。</Cults_SpellDefendTheBrood.description>
+  <Cults_SpellDefendTheBrood.letterLabel>\n彼に守護を頼むために</Cults_SpellDefendTheBrood.letterLabel>
+  <Cults_SpellDefendTheBrood.letterText>は遠く離れたところから唸り声が聞こえた、それは一つでなく合唱のように複数であった。</Cults_SpellDefendTheBrood.letterText>
+  <!-- <IncidentDef ParentName="SpellDef">
+		<label>深海の遺物</label>
+		<description>翡翠、銀、金など貴重な資源を生みだします。深海に消えた伝説の武器や鎧もあります。</description>
+		<defName>Cults_SpellRecoverArtifacts</defName>
+		<workerClass>CultOfCthulhu.SpellWorker_RelicsoftheDeep</workerClass>
+        <letterLabel>\n切羽詰まり、または貪欲に海から富を届けてもらうために</letterLabel>
+        <letterText>は今まで起きたことのないような巨大な波が底に埋もれた貴重な遺物を暴き出すビジョンを得た</letterText>		
+	</IncidentDef> -->
+  <Cults_SpellBountyOfTheSea.label>海の恵み</Cults_SpellBountyOfTheSea.label>
+  <Cults_SpellBountyOfTheSea.description>ダゴンが遠くの海に浮かぶ船舶を拉致し、新鮮な血肉をもたらしてくれます。</Cults_SpellBountyOfTheSea.description>
+  <Cults_SpellBountyOfTheSea.letterLabel>切羽詰まり、または貪欲に海から富を届けてもらうために</Cults_SpellBountyOfTheSea.letterLabel>
+  <Cults_SpellBountyOfTheSea.letterText>は恵みが届いた合図として、人の叫び声と大きな衝突音を聞いた</Cults_SpellBountyOfTheSea.letterText>
+  <Cults_SpellOrthogenesis.label>定向進化</Cults_SpellOrthogenesis.label>
+  <Cults_SpellOrthogenesis.description>[ゲームクリア呪文]\n深きものどもの本拠地への道筋が明かされます、入植者達は深きものと合流し父なるダゴンの元で敬虔な信者へと「進化」することになるでしょう。</Cults_SpellOrthogenesis.description>
+  <Cults_SpellOrthogenesis.letterLabel> \n彼の寵愛と彼の元に加わる招待を得るために</Cults_SpellOrthogenesis.letterLabel>
+  <Cults_SpellOrthogenesis.letterText>は地上に響き渡る長く深い呼び声を聞いた、その呼び声は海へと入植者を招いている。</Cults_SpellOrthogenesis.letterText>
+  <!-- Shub Niggurath -->
+  <Cults_SpellFertility.label>豊穣</Cults_SpellFertility.label>
+  <Cults_SpellFertility.description>一定期間、周囲の作物に恩恵を与える豊穣のトーテムを召喚します。</Cults_SpellFertility.description>
+  <Cults_SpellFertility.letterLabel>\n作物に彼の加護を得るために</Cults_SpellFertility.letterLabel>
+  <Cults_SpellFertility.letterText>は黒山羊の姿を視た、そして生贄の遺体からトーテムが出現した</Cults_SpellFertility.letterText>
+  <Cults_SpellMotherOfGoats.label>山羊の地母</Cults_SpellMotherOfGoats.label>
+  <Cults_SpellMotherOfGoats.description>入植者の血肉となるべく黒いヤギの群れを召喚します。</Cults_SpellMotherOfGoats.description>
+  <Cults_SpellMotherOfGoats.letterLabel> to bless them with prey</Cults_SpellMotherOfGoats.letterLabel>
+  <Cults_SpellMotherOfGoats.letterText>遠くからヤギの鳴き声が聞こえた</Cults_SpellMotherOfGoats.letterText>
+  <Cults_SpellTransmogrifyPets.label>ペット変質</Cults_SpellTransmogrifyPets.label>
+  <Cults_SpellTransmogrifyPets.description>愛らしいペットの遺伝子構造にシュブ=ニグラスのDNAを植え付けます。</Cults_SpellTransmogrifyPets.description>
+  <Cults_SpellTransmogrifyPets.letterLabel>\n動物に異次元の者の加護を授けるためにto bless their beasts with a touch of its extra-dimensional biology</Cults_SpellTransmogrifyPets.letterLabel>
+  <Cults_SpellTransmogrifyPets.letterText>は選ばれた動物の肌が膨らみ、皮膚の下では蠢くように変異が起きてるのを見ている。 それは見つめ返しきて、ただ無感情に鳴いている。</Cults_SpellTransmogrifyPets.letterText>
+  <!-- <IncidentDef>
+		<label>黒い仔羊</label>
+		<description>シュブ=ニグラスが相応しないとみなすまで、黒い仔羊の怪物を召喚してあなたを忠実な主人として奉仕する。</description>
+		<defName>Cults_SpellDarkYoung</defName>
+		<workerClass>CultOfCthulhu.SpellWorker_DarkYoung</workerClass>
+        <letterLabel>\n強力な味方を得るために</letterLabel>
+        <letterText>は祭壇から伸びるシュブ=ニグラスの枝より産まれる黒い仔羊を見た。</letterText>
+	</IncidentDef> -->
+  <Cults_SpellWombBetweenWorlds.label>大地の母胎</Cults_SpellWombBetweenWorlds.label>
+  <Cults_SpellWombBetweenWorlds.description>シュブ=ニグラスからの庇護を得ている限りあなたに仕える黒い仔山羊を産みだすポータルを召喚します。</Cults_SpellWombBetweenWorlds.description>
+  <Cults_SpellWombBetweenWorlds.letterLabel>\n強力な仲間を召喚するために</Cults_SpellWombBetweenWorlds.letterLabel>
+  <Cults_SpellWombBetweenWorlds.letterText>は地表から蔓のような触手の噴出を見た。新たな怪物を産み出すと同時に地面は隆起し割かれる。</Cults_SpellWombBetweenWorlds.letterText>
+  <Cults_SpellTransdimensionalConvergence.label>多次元的収束</Cults_SpellTransdimensionalConvergence.label>
+  <Cults_SpellTransdimensionalConvergence.description>[ゲームクリア呪文]\n周囲の全ての生物が突然変異しうる犠牲を払い、シュブ=ニグラスをこの次元に顕現させます。</Cults_SpellTransdimensionalConvergence.description>
+  <Cults_SpellTransdimensionalConvergence.letterLabel>\n結界を解き、道を開くために</Cults_SpellTransdimensionalConvergence.letterLabel>
+  <Cults_SpellTransdimensionalConvergence.letterText>rends the barriers and unfolds the higher dimensions, bringing the Mother Goddess into this lowly place</Cults_SpellTransdimensionalConvergence.letterText>
+  <!-- Nyarlathotep -->
+  <Cults_SpellStarryWisdom.label>星の智慧</Cults_SpellStarryWisdom.label>
+  <Cults_SpellStarryWisdom.description>執行者の精神をサイコパスへと変えます。サイコパスであれば人肉の虜になります。</Cults_SpellStarryWisdom.description>
+  <Cults_SpellStarryWisdom.letterLabel>and give the dark one its toll of dreams in exchange for illumination</Cults_SpellStarryWisdom.letterLabel>
+  <Cults_SpellStarryWisdom.letterText>has their mind open to the truth</Cults_SpellStarryWisdom.letterText>
+  <Cults_SpellForbiddenKnowledge.label>禁忌の知識</Cults_SpellForbiddenKnowledge.label>
+  <Cults_SpellForbiddenKnowledge.description>現在行ってる研究の進行に大量のボーナスを与えます。</Cults_SpellForbiddenKnowledge.description>
+  <Cults_SpellForbiddenKnowledge.letterLabel>and ask that he grants forbidden knowledge</Cults_SpellForbiddenKnowledge.letterLabel>
+  <Cults_SpellForbiddenKnowledge.letterText>hears dark secrets scratched in the air by a whisper</Cults_SpellForbiddenKnowledge.letterText>
+  <Cults_SpellChaosTheory.label>カオス理論</Cults_SpellChaosTheory.label>
+  <Cults_SpellChaosTheory.description>もう一度人生を送ることができます。これにより執行者のすべての苦手が取り除かれ、生い立ちが変更されます。</Cults_SpellChaosTheory.description>
+  <Cults_SpellChaosTheory.letterLabel>and petition for another chance to correct mistakes from the past</Cults_SpellChaosTheory.letterLabel>
+  <Cults_SpellChaosTheory.letterText>is sent back in time to before their birth to relive their life again</Cults_SpellChaosTheory.letterText>
+  <Cults_SpellDarkEmissary.label>闇の使者</Cults_SpellDarkEmissary.label>
+  <Cults_SpellDarkEmissary.description>コロニーに新たな崇拝者が加わります。</Cults_SpellDarkEmissary.description>
+  <Cults_SpellDarkEmissary.letterLabel>to bolster your ranks with his favoured</Cults_SpellDarkEmissary.letterLabel>
+  <Cults_SpellDarkEmissary.letterText>can sense a visitor's arrival</Cults_SpellDarkEmissary.letterText>
+  <Cults_SpellPilgrimageToKadath.label>カダスへの巡礼</Cults_SpellPilgrimageToKadath.label>
+  <Cults_SpellPilgrimageToKadath.description>[ゲームクリア呪文]\nドリームランドのニャルラトホテプのもとに行きますか？</Cults_SpellPilgrimageToKadath.description>
+  <Cults_SpellPilgrimageToKadath.letterLabel>and ask that he illuminate the path to one of his many thrones</Cults_SpellPilgrimageToKadath.letterLabel>
+  <Cults_SpellPilgrimageToKadath.letterText>finds themselves at the start of a long path, with a stranger ahead, beckoning</Cults_SpellPilgrimageToKadath.letterText>
+  <!-- Hastur -->
+  <Cults_SpellTheKingInYellow.label>黄衣の王 第一章</Cults_SpellTheKingInYellow.label>
+  <Cults_SpellTheKingInYellow.description>悪名高い戯曲「黄衣の王」を再現します。</Cults_SpellTheKingInYellow.description>
+  <Cults_SpellTheKingInYellow.letterLabel>and petition him to whisper the tale of the the Visitor, who wears no mask, and the doom that followed</Cults_SpellTheKingInYellow.letterLabel>
+  <Cults_SpellTheKingInYellow.letterText>smiles with eagerness. They cannot wait to see how the play ends this time</Cults_SpellTheKingInYellow.letterText>
+  <Cults_SpellSummonByakhee.label>バイアクヘーの召喚</Cults_SpellSummonByakhee.label>
+  <Cults_SpellSummonByakhee.description>守護と輸送を担うバイアクヘーを召喚します。</Cults_SpellSummonByakhee.description>
+  <Cults_SpellSummonByakhee.letterLabel>and beseech that he sends one of his hideous star-dwelling steeds</Cults_SpellSummonByakhee.letterLabel>
+  <Cults_SpellSummonByakhee.letterText>hears unearthly screams and the beating of leathery wings from above</Cults_SpellSummonByakhee.letterText>
+  <Cults_SpellVisionsOfCarcosa.label>黄衣の王 第二章</Cults_SpellVisionsOfCarcosa.label>
+  <Cults_SpellVisionsOfCarcosa.description>入植者の一部は、5-6時間深い眠りの中で失われた都市カルコサの夢を見続け、起きた後しばらくの間気分が安らぐようになります。</Cults_SpellVisionsOfCarcosa.description>
+  <Cults_SpellVisionsOfCarcosa.letterLabel>and petition him for visions of the spires and balustrades of the distant and lost city of Carcosa</Cults_SpellVisionsOfCarcosa.letterLabel>
+  <Cults_SpellVisionsOfCarcosa.letterText>feels the tendrils of sleep weave its way into their mind, to pull them away to distant Haydes, where Carcosa sits under black stars</Cults_SpellVisionsOfCarcosa.letterText>
+  <Cults_SpellUnspeakableOath.label>名状し難い誓約</Cults_SpellUnspeakableOath.label>
+  <Cults_SpellUnspeakableOath.description>執行者はハスターからの加護を受けます。しかし死んだ後その肉体は彼の道具か玩具になるでしょう。</Cults_SpellUnspeakableOath.description>
+  <Cults_SpellUnspeakableOath.letterLabel>and swear and an unbreakable oath on his unspoken name</Cults_SpellUnspeakableOath.letterLabel>
+  <Cults_SpellUnspeakableOath.letterText>realises that they are the only one who notices the masked stranger, slender in their yellow robes, and realises that their life is no longer their own</Cults_SpellUnspeakableOath.letterText>
+  <Cults_SpellAbsorptionByCarcosa.label>カルコサへの併合</Cults_SpellAbsorptionByCarcosa.label>
+  <Cults_SpellAbsorptionByCarcosa.description>[ゲームクリア呪文]\nこの小さな入植地はハスターの庇護の元、カルコサの都市に併合されることが許されました。</Cults_SpellAbsorptionByCarcosa.description>
+  <Cults_SpellAbsorptionByCarcosa.letterLabel>and cry out in supplication that he may gaze upon your small settlement and deem you worthy</Cults_SpellAbsorptionByCarcosa.letterLabel>
+  <Cults_SpellAbsorptionByCarcosa.letterText>dons a mask and so is free</Cults_SpellAbsorptionByCarcosa.letterText>
+  <!-- Table of Fun -->
+  <Cults_SpellDoubleTheFun.label>二重の戯れ</Cults_SpellDoubleTheFun.label>
+  <Cults_SpellDoubleTheFun.letterText>ものすごい量のカミナリが局所的に落ちます。</Cults_SpellDoubleTheFun.letterText>
+  <Cults_SpellReanimator.label>ゾンビ</Cults_SpellReanimator.label>
+  <Cults_SpellReanimator.letterText>生贄は死から蘇った。</Cults_SpellReanimator.letterText>
+  <Cults_SpellFlashstorm.label>ゲリラ雷雨</Cults_SpellFlashstorm.label>
+  <Cults_SpellFlashstorm.letterText>ものすごい量のカミナリが局所的に落ちます。</Cults_SpellFlashstorm.letterText>
+  <Cults_SpellEcstaticFrenzy.label>狂気の興奮</Cults_SpellEcstaticFrenzy.label>
+  <Cults_SpellEcstaticFrenzy.letterText>儀式の狂気にあてられた崇拝者達は獣のように喧嘩を始めます。</Cults_SpellEcstaticFrenzy.letterText>
+  <Cults_SpellStarVampireVisit.label>星の精の召喚</Cults_SpellStarVampireVisit.label>
+  <Cults_SpellStarVampireVisit.letterText>星の精が現れた。</Cults_SpellStarVampireVisit.letterText>
+  <Cults_SpellBlight.label>疫病</Cults_SpellBlight.label>
+  <Cults_SpellBlight.letterText>謎の疫病で 農作物が 根こそぎ 枯れました。</Cults_SpellBlight.letterText>
+  <Cults_SpellNoLongerDomesticated.label>野生化</Cults_SpellNoLongerDomesticated.label>
+  <Cults_SpellNoLongerDomesticated.letterText>家畜の一部は狂気に晒され野生に戻った。</Cults_SpellNoLongerDomesticated.letterText>
+  <Cults_SpellEclipse.label>日食</Cults_SpellEclipse.label>
+  <Cults_SpellEclipse.letterLabel>日食</Cults_SpellEclipse.letterLabel>
+  <Cults_SpellEclipse.letterText>この惑星が持っている、月のひとつが、太陽をさえぎる位置にきました。日食のはじまりです。</Cults_SpellEclipse.letterText>
+  <Cults_SpellFoodSpoilage.label>腐敗</Cults_SpellFoodSpoilage.label>
+  <Cults_SpellFoodSpoilage.letterText>奇妙なことに備蓄していた食料のいくつかが腐り食べられなくなりました。</Cults_SpellFoodSpoilage.letterText>
+  <Cults_SpellReincarnation.label>転生</Cults_SpellReincarnation.label>
+  <Cults_SpellReincarnation.letterText>生贄は木になった。祭壇に侵食しているそれの表面には生贄の顔に似た模様が浮き出ている。</Cults_SpellReincarnation.letterText>
+  <Cults_SpellAuroraEffect.label>オーロラ</Cults_SpellAuroraEffect.label>
+  <Cults_SpellAuroraEffect.letterText>上空に壮大なオーロラが発生している。</Cults_SpellAuroraEffect.letterText>
+  <Cults_SpellNeedAHand.label>Need a Hand</Cults_SpellNeedAHand.label>
+  <Cults_SpellNeedAHand.letterText>恐ろしいことに、彼らは自身らの体が変異させられたことに気づいた。</Cults_SpellNeedAHand.letterText>
+  <Cults_SpellRatsInTheWalls.label>壁の中の鼠</Cults_SpellRatsInTheWalls.label>
+  <Cults_SpellRatsInTheWalls.letterText>チューチューと短く鳴く声が床下から噴出する無数の鼠の襲来を伝えてくれます。</Cults_SpellRatsInTheWalls.letterText>
+  <!-- Debug -->
+  <DebugSpawnCultPreacher.label>Debug: Spawn Cult Preacher</DebugSpawnCultPreacher.label>
+  <DebugSpawnCultPreacher.letterText>DEBUG - THIS SHOULD NEVER HAPPEN</DebugSpawnCultPreacher.letterText>
+</LanguageData>

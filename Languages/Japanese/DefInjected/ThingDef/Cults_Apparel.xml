@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Coats -->
+  <Apparel_CultistRobes.description>叡智を求む者のための。
+		</Apparel_CultistRobes.description>
+  <Apparel_CultistRobes.label>崇拝者のローブ</Apparel_CultistRobes.label>
+  <!-- Fur Cultist Robes -->
+  <Apparel_ROMFurRobes.label>毛皮の崇拝者のローブ</Apparel_ROMFurRobes.label>
+  <Apparel_ROMFurRobes.description>崇拝者の着る他のローブとほぼ同じですが寒い環境に適しています。</Apparel_ROMFurRobes.description>
+  <!-- Toga Cultist Vestments -->
+  <Apparel_ROMWrapRobes.label>崇拝者の法衣(一枚布)</Apparel_ROMWrapRobes.label>
+  <Apparel_ROMWrapRobes.description>低位の怪物に見せかけることによって効果的な礼拝を行える聖なる一枚布。それは暑い環境でも快適に活動できるでしょう。
+		</Apparel_ROMWrapRobes.description>
+  <!-- Tentacled Cultist Vestments -->
+  <Apparel_ROMCthulhuRobes.label>触手付きの崇拝者の法衣</Apparel_ROMCthulhuRobes.label>
+  <Apparel_ROMCthulhuRobes.description>偽の触手で飾られたこの装飾的な衣装は、クトゥルフまたはニャルラトホテプの司祭に好まれています。
+		</Apparel_ROMCthulhuRobes.description>
+  <!-- Traditional Cultist Vestments -->
+  <Apparel_ROMDagonRobes.label>伝統的な崇拝者の法衣</Apparel_ROMDagonRobes.label>
+  <Apparel_ROMDagonRobes.description>ダゴンまたはハスターにより好まれる印象的な外観の服。
+		</Apparel_ROMDagonRobes.description>
+  <!-- Druidic Cultist Vestments -->
+  <Apparel_ROMShubRobes.label>ドルイドの崇拝者の法衣</Apparel_ROMShubRobes.label>
+  <Apparel_ROMShubRobes.description>シュブ=ニグラスのような神々に向けた神聖な小枝で飾られたドルイド聖職者の衣裳.
+		</Apparel_ROMShubRobes.description>
+  <Apparel_SailorUniform.description>船員のための。
+		</Apparel_SailorUniform.description>
+  <Apparel_SailorUniform.label>船員の制服</Apparel_SailorUniform.label>
+  <!-- Hats -->
+  <Apparel_CultistHood.label>崇拝者のフード (覆われた)</Apparel_CultistHood.label>
+  <Apparel_CultistHood.description>秘匿したい入植者のための。</Apparel_CultistHood.description>
+  <Apparel_CthulhuMaskHood.label>崇拝者のフード (クトゥルフ)</Apparel_CthulhuMaskHood.label>
+  <Apparel_CthulhuMaskHood.description>このマスクは神をより喜ばせるためのものです。 賛美はより熱心に見え、彼らからの見返りはより安定します。</Apparel_CthulhuMaskHood.description>
+  <Apparel_NyarlathotepHood.label>崇拝者のフード (ニャルラトホテプ)</Apparel_NyarlathotepHood.label>
+  <Apparel_NyarlathotepHood.description>ニャルラトホテプの信仰者のためのこのマスクは神をより喜ばせるためのものです。 賛美はより熱心に見え、彼らからの見返りはより安定します。</Apparel_NyarlathotepHood.description>
+  <Apparel_DagonMitre.label>崇拝者のフード (ダゴン)</Apparel_DagonMitre.label>
+  <Apparel_DagonMitre.description>ダゴンの信仰者のためのこのマスクは神をより喜ばせるためのものです。 賛美はより熱心に見え、彼らからの見返りはより安定します。</Apparel_DagonMitre.description>
+  <Apparel_ShubMask.label>崇拝者のフード (シュブ=二グラス)</Apparel_ShubMask.label>
+  <Apparel_ShubMask.description>&gt;シュブ=二グラスの信仰者のためのこのマスクは神をより喜ばせるためのものです。 賛美はより熱心に見え、彼らからの見返りはより安定します。</Apparel_ShubMask.description>
+  <Apparel_StandardHood.label>崇拝者のフード (シンプル)</Apparel_StandardHood.label>
+  <Apparel_StandardHood.description>秘匿したい入植者のための。</Apparel_StandardHood.description>
+  <Apparel_SailorsCap.label>船員の帽子</Apparel_SailorsCap.label>
+  <Apparel_SailorsCap.description>船員のための。</Apparel_SailorsCap.description>
+</LanguageData>

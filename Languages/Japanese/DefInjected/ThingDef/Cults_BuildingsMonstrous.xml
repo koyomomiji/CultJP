@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cult_NightmareSacrificeAltar.label>侵食された祭壇</Cult_NightmareSacrificeAltar.label>
+  <Cult_NightmareSacrificeAltar.description>生贄の遺体が木となって祭壇を侵食したもの。修理と刈り取りが必要。</Cult_NightmareSacrificeAltar.description>
+  <Cult_NightmareSacrificeAltar_Blueprint_Install.label>侵食された祭壇 (設計図)</Cult_NightmareSacrificeAltar_Blueprint_Install.label>
+  <Cults_BurstingTentacle.label>噴出した触手</Cults_BurstingTentacle.label>
+  <Cults_BurstingTentacle.description>あぁ神よ</Cults_BurstingTentacle.description>
+  <Cults_WombBetweenWorlds.label>大地の母胎</Cults_WombBetweenWorlds.label>
+  <Cults_WombBetweenWorlds.description>.</Cults_WombBetweenWorlds.description>
+</LanguageData>

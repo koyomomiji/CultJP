@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Misc -->
+  <Cults_PruneAndRepair.reportString>TargetAの刈り取りと修理中</Cults_PruneAndRepair.reportString>
+  <!-- PawnFlying -->
+  <Cults_EnterTransporterPawn.reportString>TargetAに入っている</Cults_EnterTransporterPawn.reportString>
+  <!-- Special -->
+  <Cults_MidnightInquisition.reportString>自らの手でこの歪んだ現状にけりをつけている</Cults_MidnightInquisition.reportString>
+  <!-- Offerings -->
+  <Cults_GiveOffering.reportString>TargetAへの供物を集めている</Cults_GiveOffering.reportString>
+  <Cults_ReflectOnOffering.reportString>供物を反映中</Cults_ReflectOnOffering.reportString>
+  <!-- Sacrifice -->
+  <Cults_HoldSacrifice.reportString>生贄の儀式を行っている</Cults_HoldSacrifice.reportString>
+  <Cults_AttendSacrifice.reportString>生贄の儀式に参加中</Cults_AttendSacrifice.reportString>
+  <Cults_ReflectOnResult.reportString>結果を反映中</Cults_ReflectOnResult.reportString>
+  <Cults_WaitTiedDown.reportString>処刑を待っている</Cults_WaitTiedDown.reportString>
+  <!-- Worship -->
+  <Cults_HoldWorship.reportString>礼拝を行っている</Cults_HoldWorship.reportString>
+  <Cults_AttendWorship.reportString>礼拝に参加中</Cults_AttendWorship.reportString>
+  <Cults_ReflectOnWorship.reportString>礼拝を反映中</Cults_ReflectOnWorship.reportString>
+  <!-- Let's go -->
+  <Cults_Investigate.reportString>TargetBを調査中</Cults_Investigate.reportString>
+  <Cults_WriteTheBook.reportString>狂ったように書いている</Cults_WriteTheBook.reportString>
+</LanguageData>

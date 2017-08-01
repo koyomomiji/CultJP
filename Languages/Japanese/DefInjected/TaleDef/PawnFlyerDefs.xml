@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RodeByakhee.label>バイアクヘーに騎乗</RodeByakhee.label>
+  <RodeByakhee.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]のバイアクヘーでの飛行</RodeByakhee.rulePack.rulesStrings.0>
+  <RodeByakhee.rulePack.rulesStrings.1>image-&gt;バイアクヘーと飛んでいる[pawn_nameFull] [circumstance_group]</RodeByakhee.rulePack.rulesStrings.1>
+  <RodeByakhee.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] soaring through the skies upon a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.2>
+  <RodeByakhee.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] sailing through the clouds on a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.3>
+  <RodeByakhee.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] riding a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.4>
+  <RodeByakhee.rulePack.rulesStrings.5>circumstance_phrase-&gt;[terrainfeature]を 目前にして</RodeByakhee.rulePack.rulesStrings.5>
+  <RodeByakhee.rulePack.rulesStrings.6>circumstance_phrase-&gt;いきなり 途方もない力を 受けつつあり</RodeByakhee.rulePack.rulesStrings.6>
+  <RodeByakhee.rulePack.rulesStrings.7>circumstance_phrase-&gt;高速度で 吹き出した チリや 隕石群に 襲われてしまい</RodeByakhee.rulePack.rulesStrings.7>
+  <RodeByakhee.rulePack.rulesStrings.8>circumstance_phrase-&gt;バイアクヘーが異言語を唸る中で</RodeByakhee.rulePack.rulesStrings.8>
+  <RodeByakhee.rulePack.rulesStrings.9>circumstance_phrase-&gt;精密着陸操作を 行っている 最中に</RodeByakhee.rulePack.rulesStrings.9>
+  <RodeByakhee.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun]は、 姿勢制御だけ 一点に 集中している。</RodeByakhee.rulePack.rulesStrings.10>
+  <RodeByakhee.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun]は、 恐怖のあまり 両目を 閉じている。</RodeByakhee.rulePack.rulesStrings.11>
+  <RodeByakhee.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun]は、気を失い、 舌が だらりと 口から はみ出し、 よだれを ポタポタと 垂らしている。</RodeByakhee.rulePack.rulesStrings.12>
+  <RodeByakhee.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun]は、うす気味の 悪い 笑みを 浮かべている。</RodeByakhee.rulePack.rulesStrings.13>
+  <RodeByakhee.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun]には、 もう 何も 手の 施しようが 無い。</RodeByakhee.rulePack.rulesStrings.14>
+  <RodeByakhee.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun]は、 自分では どうすることも できないまま、 目を 閉じて 固定されている。</RodeByakhee.rulePack.rulesStrings.15>
+  <RodeByakhee.rulePack.rulesStrings.16>desc_sentence-&gt;バイアクヘーの飛翔器官は、その感情が見えない目に連動するように不自然な色で煌めいている。</RodeByakhee.rulePack.rulesStrings.16>
+  <RodeByakhee.rulePack.rulesStrings.17>desc_sentence-&gt;近くにいた[animal]は見あげ、恐れ慄いている。 </RodeByakhee.rulePack.rulesStrings.17>
+  <RodeByakhee.rulePack.rulesStrings.18>desc_sentence-&gt;[animal]はバイアクヘーへの恐怖から逃げている </RodeByakhee.rulePack.rulesStrings.18>
+  <RodeByakhee.rulePack.rulesStrings.19>desc_sentence-&gt;背景には [terrainfeature]がある。</RodeByakhee.rulePack.rulesStrings.19>
+  <RodeByakhee.rulePack.rulesStrings.20>desc_sentence-&gt;[outlander] は遠くから静かにことの成り行き見ている。</RodeByakhee.rulePack.rulesStrings.20>
+</LanguageData>

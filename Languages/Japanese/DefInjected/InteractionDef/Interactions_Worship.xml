@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Random social interactions -->
+  <Cults_SafePreach.label>神秘の共有</Cults_SafePreach.label>
+  <Cults_SafePreach.logRulesInitiator.rulesStrings.0>logentry-&gt;は[other_nameShortIndef]に教えを説いた。</Cults_SafePreach.logRulesInitiator.rulesStrings.0>
+  <Cults_SafePreach.logRulesRecipient.rulesStrings.0>logentry-&gt;は[other_nameShortIndef]から教えを説かれた</Cults_SafePreach.logRulesRecipient.rulesStrings.0>
+  <Cults_DangerPreach.label>神秘の共有</Cults_DangerPreach.label>
+  <Cults_DangerPreach.logRulesInitiator.rulesStrings.0>logentry-&gt;は[other_nameShortIndef]の信仰を非難した。</Cults_DangerPreach.logRulesInitiator.rulesStrings.0>
+  <Cults_DangerPreach.logRulesRecipient.rulesStrings.0>logentry-&gt;は[other_nameShortIndef]に信仰を非難された。</Cults_DangerPreach.logRulesRecipient.rulesStrings.0>
+</LanguageData>

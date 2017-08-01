@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Byakhee -->
+  <Cults_Stinger.label>針</Cults_Stinger.label>
+  <Cults_Hune.label>飛翔器官</Cults_Hune.label>
+  <Cults_AirSac.label>気嚢</Cults_AirSac.label>
+  <!-- Cosmic Horror Parts -->
+  <Cults_LeftClaw.label>左カギ爪</Cults_LeftClaw.label>
+  <Cults_RightClaw.label>右カギ爪</Cults_RightClaw.label>
+  <Cults_LeftFlipper.label>左ヒレ足</Cults_LeftFlipper.label>
+  <Cults_RightFlipper.label>右ヒレ足</Cults_RightFlipper.label>
+  <Cults_Leg.label>脚</Cults_Leg.label>
+  <Cults_Hoof.label>蹄</Cults_Hoof.label>
+  <Cults_Gills.label>エラ</Cults_Gills.label>
+  <Cults_DorsalFin.label>背ビレ</Cults_DorsalFin.label>
+  <Cults_Tentacle.label>触手</Cults_Tentacle.label>
+  <Cults_TentacleFlight.label>触手</Cults_TentacleFlight.label>
+  <Cults_LeftWing.label>左翼</Cults_LeftWing.label>
+  <Cults_RightWing.label>右翼</Cults_RightWing.label>
+  <Cults_Nostril.label>鼻孔</Cults_Nostril.label>
+  <Internal_LeftEar.label>左内耳</Internal_LeftEar.label>
+  <Internal_RightEar.label>右内耳</Internal_RightEar.label>
+  <Cults_Maw.label>顎</Cults_Maw.label>
+  <Cults_MawHuge.label>大顎</Cults_MawHuge.label>
+  <Cults_ShapeshiftingOrgan.label>変異中の器官</Cults_ShapeshiftingOrgan.label>
+  <Cults_Kidney.label>腎臓</Cults_Kidney.label>
+  <Cults_Lung.label>肺</Cults_Lung.label>
+  <Cults_Eye.label>目</Cults_Eye.label>
+  <Cults_Feeler.label>触角</Cults_Feeler.label>
+  <Cults_SporeHead.label>胞子体</Cults_SporeHead.label>
+  <Cults_Sucker.label>吸盤</Cults_Sucker.label>
+  <Cults_PsionicLobe.label>大脳皮質</Cults_PsionicLobe.label>
+  <Cults_FrontalLobe.label>前頭葉</Cults_FrontalLobe.label>
+  <Cults_ParietalLobe.label>頭頂葉</Cults_ParietalLobe.label>
+  <Cults_OccipitalLobe.label>後頭葉</Cults_OccipitalLobe.label>
+  <Cults_TemporalLobe.label>側頭葉</Cults_TemporalLobe.label>
+  <Cults_BrainStem.label>脳幹</Cults_BrainStem.label>
+  <Cults_FlightOrgan.label>飛翔器官</Cults_FlightOrgan.label>
+</LanguageData>

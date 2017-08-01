@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_Psionic.label>ひしゃげた</Cults_Psionic.label>
+  <Cults_Psionic.comps.0.labelTendedWell>包帯</Cults_Psionic.comps.0.labelTendedWell>
+  <Cults_Psionic.comps.0.labelTendedWellInner>縫合</Cults_Psionic.comps.0.labelTendedWellInner>
+  <Cults_Psionic.comps.0.labelSolidTendedWell>セット</Cults_Psionic.comps.0.labelSolidTendedWell>
+  <Cults_Psionic.injuryProps.destroyedLabel>破裂した</Cults_Psionic.injuryProps.destroyedLabel>
+  <IntracranialPressureBuildup.label>頭蓋内圧</IntracranialPressureBuildup.label>
+  <IntracranialPressureBuildup.stages.0.label>初期-隠匿されている</IntracranialPressureBuildup.stages.0.label>
+  <IntracranialPressureBuildup.stages.1.label>初期</IntracranialPressureBuildup.stages.1.label>
+  <IntracranialPressureBuildup.stages.2.label>軽度</IntracranialPressureBuildup.stages.2.label>
+  <IntracranialPressureBuildup.stages.3.label>中度</IntracranialPressureBuildup.stages.3.label>
+  <IntracranialPressureBuildup.stages.4.label>重度</IntracranialPressureBuildup.stages.4.label>
+  <IntracranialPressureBuildup.stages.5.label>重度</IntracranialPressureBuildup.stages.5.label>
+</LanguageData>

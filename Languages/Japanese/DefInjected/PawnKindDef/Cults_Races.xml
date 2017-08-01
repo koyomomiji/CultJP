@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_BlackGoat.label>クロヤギ</Cults_BlackGoat.label>
+  <Cults_BlackGoat.labelPlural>クロヤギ</Cults_BlackGoat.labelPlural>
+  <Cults_BlackGoat.lifeStages.0.label>クロヤギ</Cults_BlackGoat.lifeStages.0.label>
+  <Cults_BlackGoat.lifeStages.0.labelPlural>クロヤギ</Cults_BlackGoat.lifeStages.0.labelPlural>
+  <Cults_BlackGoat.lifeStages.0.labelMale>クロヤギ</Cults_BlackGoat.lifeStages.0.labelMale>
+  <Cults_BlackGoat.lifeStages.0.labelMalePlural>クロヤギ</Cults_BlackGoat.lifeStages.0.labelMalePlural>
+  <Cults_BlackGoat.lifeStages.0.labelFemale>クロヤギ</Cults_BlackGoat.lifeStages.0.labelFemale>
+  <Cults_BlackGoat.lifeStages.0.labelFemalePlural>クロヤギ</Cults_BlackGoat.lifeStages.0.labelFemalePlural>
+  <Cults_BlackGoat.lifeStages.1.label>クロヤギ</Cults_BlackGoat.lifeStages.1.label>
+  <Cults_BlackGoat.lifeStages.1.labelPlural>クロヤギ</Cults_BlackGoat.lifeStages.1.labelPlural>
+  <Cults_BlackGoat.lifeStages.1.labelMale>クロヤギ</Cults_BlackGoat.lifeStages.1.labelMale>
+  <Cults_BlackGoat.lifeStages.1.labelMalePlural>クロヤギ</Cults_BlackGoat.lifeStages.1.labelMalePlural>
+  <Cults_BlackGoat.lifeStages.1.labelFemale>クロヤギ</Cults_BlackGoat.lifeStages.1.labelFemale>
+  <Cults_BlackGoat.lifeStages.1.labelFemalePlural>クロヤギ</Cults_BlackGoat.lifeStages.1.labelFemalePlural>
+  <Cults_BlackGoat.lifeStages.2.label>クロヤギ</Cults_BlackGoat.lifeStages.2.label>
+  <Cults_BlackGoat.lifeStages.2.labelPlural>クロヤギ</Cults_BlackGoat.lifeStages.2.labelPlural>
+  <Cults_BlackGoat.lifeStages.2.labelMale>クロヤギ</Cults_BlackGoat.lifeStages.2.labelMale>
+  <Cults_BlackGoat.lifeStages.2.labelMalePlural>クロヤギ</Cults_BlackGoat.lifeStages.2.labelMalePlural>
+  <Cults_BlackGoat.lifeStages.2.labelFemale>クロヤギ</Cults_BlackGoat.lifeStages.2.labelFemale>
+  <Cults_BlackGoat.lifeStages.2.labelFemalePlural>クロヤギ</Cults_BlackGoat.lifeStages.2.labelFemalePlural>
+  <Cults_BlackGoat.labelMale>クロヤギ</Cults_BlackGoat.labelMale>
+  <Cults_BlackGoat.labelMalePlural>クロヤギ</Cults_BlackGoat.labelMalePlural>
+  <Cults_BlackGoat.labelFemale>クロヤギ</Cults_BlackGoat.labelFemale>
+  <Cults_BlackGoat.labelFemalePlural>クロヤギ</Cults_BlackGoat.labelFemalePlural>
+  <!-- Zombie -->
+  <ReanimatedCorpse.label>ゾンビ</ReanimatedCorpse.label>
+  <ReanimatedCorpse.labelPlural>ゾンビ</ReanimatedCorpse.labelPlural>
+</LanguageData>

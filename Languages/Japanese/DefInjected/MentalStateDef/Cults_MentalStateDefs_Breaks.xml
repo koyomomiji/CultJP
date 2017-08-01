@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cults_Disillusioned.label>幻滅</Cults_Disillusioned.label>
+  <Cults_Disillusioned.beginLetter>その真実が{0}にとっていかに恐ろしいか、HEは信仰から活力を与えられています。 それでも、HEはいかなる宗教の教えを放棄し始めました。</Cults_Disillusioned.beginLetter>
+  <Cults_Disillusioned.beginLetterLabel>幻滅</Cults_Disillusioned.beginLetterLabel>
+  <Cults_Disillusioned.recoveryMessage>{0}は内なる信仰の戦いから立ち直った。</Cults_Disillusioned.recoveryMessage>
+  <Cults_Disillusioned.baseInspectLine>精神状態: 幻滅</Cults_Disillusioned.baseInspectLine>
+</LanguageData>

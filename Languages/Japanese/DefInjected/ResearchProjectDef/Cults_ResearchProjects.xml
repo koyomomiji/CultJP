@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+  <Forbidden_Studies.label>[宗教] 奇妙な記号の解読</Forbidden_Studies.label>
+  <Forbidden_Studies.description>さらなる研究を可能にするために言語を解読します。</Forbidden_Studies.description>
+  <Forbidden_Deities.label>[宗教] 隠匿された神格の探索</Forbidden_Deities.label>
+  <Forbidden_Deities.description>新たな神格を見つけるための繰り返し可能な研究。</Forbidden_Deities.description>
+  <Forbidden_Lore.label>[宗教] 宗教の探求</Forbidden_Lore.label>
+  <Forbidden_Lore.description>研究の過程で研究者は信仰心と社交スキルを増加させる事ができる繰り返し可能な研究.\n\nこの研究は司祭となる人に推奨されます。</Forbidden_Lore.description>
+  <Forbidden_Attire.label>[宗教] 儀式の服装</Forbidden_Attire.label>
+  <Forbidden_Attire.description>着ることによって生贄の儀式を成功させやすくする、宗教的服装が作成可能になります。</Forbidden_Attire.description>
+  <Forbidden_Sculptures.label>[宗教] 彫像</Forbidden_Sculptures.label>
+  <Forbidden_Sculptures.description>外世界の神格をかたどった彫刻が作成可能になります。</Forbidden_Sculptures.description>
+  <Forbidden_Altar.label>[宗教] 祭壇</Forbidden_Altar.label>
+  <Forbidden_Altar.description>超越的存在に向けての儀式を行うことが出来る祭壇が作成可能になります。</Forbidden_Altar.description>
+  <Forbidden_Sacrifice.label>[宗教] 生贄の祭壇</Forbidden_Sacrifice.label>
+  <Forbidden_Sacrifice.description>より深い信仰心を見せるために祭壇を生贄の祭壇にアップグレード可能になります。</Forbidden_Sacrifice.description>
+  <Forbidden_Human.label>[宗教] 人間の生贄</Forbidden_Human.label>
+  <Forbidden_Human.description>より深い信仰心を見せるために生贄の祭壇で人間を生け贄にできるようアップグレード可能になります</Forbidden_Human.description>
+</LanguageData>

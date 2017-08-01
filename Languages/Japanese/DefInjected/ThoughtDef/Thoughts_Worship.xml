@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Cults_OtherPrisonerWasSacrificed.stages.0.label>他の囚人が捧げられた</Cults_OtherPrisonerWasSacrificed.stages.0.label>
+  <Cults_OtherPrisonerWasSacrificed.stages.0.description>こんなところにいられない！次は自分か？！</Cults_OtherPrisonerWasSacrificed.stages.0.description>
+  
+  <Cults_ExecutedFamily.stages.0.label>{0}を捧げた</Cults_ExecutedFamily.stages.0.label>
+  <Cults_ExecutedFamily.stages.0.description>神の名の下に私は何をやってしまったんだ？私の家族が…</Cults_ExecutedFamily.stages.0.description>
+  <Cults_ExecutedPet.stages.0.label>私の{0} {1}を捧げた</Cults_ExecutedPet.stages.0.label>
+  <Cults_ExecutedPet.stages.0.description>信仰のために殺した、そして虚無感に襲われる。</Cults_ExecutedPet.stages.0.description>
+  <Cults_ExecutedFriend.stages.0.label>友達の{0}を捧げた</Cults_ExecutedFriend.stages.0.label>
+  <Cults_ExecutedFriend.stages.0.description>価値ある理由で死んだ。 それでも、虚無感に苛まれる。</Cults_ExecutedFriend.stages.0.description>
+  <Cults_SacrificedFamily.stages.0.label>家族の{0}は生贄にされた</Cults_SacrificedFamily.stages.0.label>
+  <Cults_SacrificedFamily.stages.0.description>私達は怪物だ。</Cults_SacrificedFamily.stages.0.description>
+  <Cults_SacrificedFriend.stages.0.label>友達の{0}は生贄にされた</Cults_SacrificedFriend.stages.0.label>
+  <Cults_SacrificedFriend.stages.0.description>私達はどうなってしまったんだ？</Cults_SacrificedFriend.stages.0.description>
+  <Cults_SacrificedPet.stages.0.label>ペットの{0}は生贄にされた</Cults_SacrificedPet.stages.0.label>
+  <Cults_SacrificedPet.stages.0.description>彼等は殺した。冷酷な奴らだ。</Cults_SacrificedPet.stages.0.description>
+  <Cults_SacrificedRival.stages.0.label>ライバルの{0}は生贄にされた</Cults_SacrificedRival.stages.0.label>
+  <Cults_SacrificedRival.stages.0.description>素晴らしいことだ！奴がいなくなって喜ばしい。</Cults_SacrificedRival.stages.0.description>
+  <Cults_WitnessedSacrificeBloodlust.stages.0.label>生贄の儀式を視た</Cults_WitnessedSacrificeBloodlust.stages.0.label>
+  <Cults_WitnessedSacrificeBloodlust.stages.0.description>偉大なる方へ血を! いあ！ いあ！</Cults_WitnessedSacrificeBloodlust.stages.0.description>
+  
+  <Cults_AttendedSuccessfulSacrifice.stages.0.label>生贄の儀式は成功した</Cults_AttendedSuccessfulSacrifice.stages.0.label>
+  <Cults_AttendedSuccessfulSacrifice.stages.0.description>名誉あることだ！</Cults_AttendedSuccessfulSacrifice.stages.0.description>
+  <Cults_AttendedFailedSacrifice.stages.0.label>生贄の儀式は失敗した。</Cults_AttendedFailedSacrifice.stages.0.label>
+  <Cults_AttendedFailedSacrifice.stages.0.description>名誉ある儀式は無駄になった。</Cults_AttendedFailedSacrifice.stages.0.description>
+  <Cults_InnocentAttendedSuccessfulSacrifice.stages.0.label>生贄の儀式は成功した</Cults_InnocentAttendedSuccessfulSacrifice.stages.0.label>
+  <Cults_InnocentAttendedSuccessfulSacrifice.stages.0.description>私たちは何をしてしまったんだ？</Cults_InnocentAttendedSuccessfulSacrifice.stages.0.description>
+  <Cults_InnocentAttendedFailedSacrifice.stages.0.label>生贄の儀式は失敗した</Cults_InnocentAttendedFailedSacrifice.stages.0.label>
+  <Cults_InnocentAttendedFailedSacrifice.stages.0.description>私たちは怪物に堕ちた。何の意味もなく人を殺してしまった！</Cults_InnocentAttendedFailedSacrifice.stages.0.description>
+  
+  <Cults_HeldSermon.stages.0.label>礼拝を開いた</Cults_HeldSermon.stages.0.label>
+  <Cults_HeldSermon.stages.0.description>教えを説き皆にも加護を届けられるよう尽くしました。 うまくいってたなら、他の人たちもそれを楽しんでいたでしょう。</Cults_HeldSermon.stages.0.description>
+  <Cults_AttendedIncredibleSermonAsCultist.stages.0.label>素晴らしい礼拝</Cults_AttendedIncredibleSermonAsCultist.stages.0.label>
+  <Cults_AttendedIncredibleSermonAsCultist.stages.0.description>しばらくの間、私たちの中に神の存在を感じました。</Cults_AttendedIncredibleSermonAsCultist.stages.0.description>
+  <Cults_AttendedGreatSermonAsCultist.stages.0.label>とても良い礼拝</Cults_AttendedGreatSermonAsCultist.stages.0.label>
+  <Cults_AttendedGreatSermonAsCultist.stages.0.description>素晴らしい説教でした！</Cults_AttendedGreatSermonAsCultist.stages.0.description>
+  <Cults_AttendedGoodSermonAsCultist.stages.0.label>良い礼拝</Cults_AttendedGoodSermonAsCultist.stages.0.label>
+  <Cults_AttendedGoodSermonAsCultist.stages.0.description>私は超越した存在の教えをよく理解することができました。</Cults_AttendedGoodSermonAsCultist.stages.0.description>
+  <Cults_AttendedDecentSermonAsCultist.stages.0.label>普通の礼拝</Cults_AttendedDecentSermonAsCultist.stages.0.label>
+  <Cults_AttendedDecentSermonAsCultist.stages.0.description>いあ！いあ！讃えよ！</Cults_AttendedDecentSermonAsCultist.stages.0.description>
+  <Cults_AttendedAwfulSermonAsCultist.stages.0.label>ひどい礼拝</Cults_AttendedAwfulSermonAsCultist.stages.0.label>
+  <Cults_AttendedAwfulSermonAsCultist.stages.0.description>私ならもっと良い礼拝を出来るのに！</Cults_AttendedAwfulSermonAsCultist.stages.0.description>
+  <Cults_AttendedIncredibleSermonAsInnocent.stages.0.label>畏怖を感じさせる礼拝を目撃した</Cults_AttendedIncredibleSermonAsInnocent.stages.0.label>
+  <Cults_AttendedIncredibleSermonAsInnocent.stages.0.description>私は司祭の説教を通してその存在の呼び声を聞いた。アレは何だ？トリックに決まっている。\n\nゲーム情報: 良い礼拝は崇拝者でない入植者達の信仰心も少しずつ増加させます。</Cults_AttendedIncredibleSermonAsInnocent.stages.0.description>
+  <Cults_AttendedGreatSermonAsInnocent.stages.0.label>恐ろしい礼拝を目撃した</Cults_AttendedGreatSermonAsInnocent.stages.0.label>
+  <Cults_AttendedGreatSermonAsInnocent.stages.0.description>司祭のいっていたことは嘘に決まっている。でももしそうでないなら？私の今までの全てが間違っていたというのか？\n\nゲーム情報: 良い礼拝は崇拝者でない入植者達の信仰心も少しずつ増加させます。</Cults_AttendedGreatSermonAsInnocent.stages.0.description>
+  <Cults_AttendedGoodSermonAsInnocent.stages.0.label>不吉な礼拝を目撃した</Cults_AttendedGoodSermonAsInnocent.stages.0.label>
+  <Cults_AttendedGoodSermonAsInnocent.stages.0.description>司祭の言葉に反論できないが受け入れることも出来ない。\n\nMeta ゲーム情報: 良い礼拝は崇拝者でない入植者達の信仰心も少しずつ増加させます。</Cults_AttendedGoodSermonAsInnocent.stages.0.description>
+  <Cults_AttendedDecentSermonAsInnocent.stages.0.label>奇怪な礼拝を目撃した</Cults_AttendedDecentSermonAsInnocent.stages.0.label>
+  <Cults_AttendedDecentSermonAsInnocent.stages.0.description>全てが真実とは思えないが、立派な説教でした。\n\nゲーム情報: 良い礼拝は崇拝者でない入植者達の信仰心も少しずつ増加させます。</Cults_AttendedDecentSermonAsInnocent.stages.0.description>
+  <Cults_AttendedAwfulSermonAsInnocent.stages.0.label>深淵の礼拝を目撃した</Cults_AttendedAwfulSermonAsInnocent.stages.0.label>
+  <Cults_AttendedAwfulSermonAsInnocent.stages.0.description>皆は本当にあれを信じているのか？狂ってるのか？</Cults_AttendedAwfulSermonAsInnocent.stages.0.description>
+
+  <Cults_PrayedInImpressiveTemple.stages.5.label>印象的な神殿</Cults_PrayedInImpressiveTemple.stages.5.label>
+  <Cults_PrayedInImpressiveTemple.stages.5.description>私は印象的な神殿で時間を過ごしました。</Cults_PrayedInImpressiveTemple.stages.5.description>
+  <Cults_PrayedInImpressiveTemple.stages.6.label>印象的な神殿</Cults_PrayedInImpressiveTemple.stages.6.label>
+  <Cults_PrayedInImpressiveTemple.stages.6.description>私は印象的な神殿で時間を過ごしました。</Cults_PrayedInImpressiveTemple.stages.6.description>
+  <Cults_PrayedInImpressiveTemple.stages.7.label>非常に印象的な神殿</Cults_PrayedInImpressiveTemple.stages.7.label>
+  <Cults_PrayedInImpressiveTemple.stages.7.description>私はとても印象的な神殿で時間を過ごしました。</Cults_PrayedInImpressiveTemple.stages.7.description>
+  <Cults_PrayedInImpressiveTemple.stages.8.label>非常に印象的な神殿</Cults_PrayedInImpressiveTemple.stages.8.label>
+  <Cults_PrayedInImpressiveTemple.stages.8.description>私は非常に印象的な神殿にある時間を過ごしました。永遠にそこにとどまることが出来るでしょう。</Cults_PrayedInImpressiveTemple.stages.8.description>
+  <Cults_PrayedInImpressiveTemple.stages.9.label>信じられないほど印象的な神殿</Cults_PrayedInImpressiveTemple.stages.9.label>
+  <Cults_PrayedInImpressiveTemple.stages.9.description>私は信じられないほど印象的な神殿で過ごしました。永遠にそこにとどまることが出来るでしょう。</Cults_PrayedInImpressiveTemple.stages.9.description>
+  <Cults_PrayedInImpressiveTemple.stages.10.label>奇跡的に素晴らしい神殿</Cults_PrayedInImpressiveTemple.stages.10.label>
+  <Cults_PrayedInImpressiveTemple.stages.10.description>私は奇跡的に素晴らしい神殿で時間を過ごしました。永遠にそこにとどまることが出来るでしょう。</Cults_PrayedInImpressiveTemple.stages.10.description>
+  <Cults_PrayedInImpressiveTemple.stages.11.label>世紀の神殿</Cults_PrayedInImpressiveTemple.stages.11.label>
+  <Cults_PrayedInImpressiveTemple.stages.11.description>私は、想像できる最高の神殿で私の祈りをしました。永遠にそこにとどまることが出来るでしょう。</Cults_PrayedInImpressiveTemple.stages.11.description>
+ 
+  <Cults_SawAurora.stages.0.label>美しいオーロラ</Cults_SawAurora.stages.0.label>
+  <Cults_SawAurora.stages.0.description>なんて綺麗な光景なんだ！</Cults_SawAurora.stages.0.description>
+</LanguageData>

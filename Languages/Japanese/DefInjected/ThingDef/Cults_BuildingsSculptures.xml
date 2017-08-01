@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Cultist Sculptures -->
+  <YigSculptureLarge.label>大きな蛇人間の彫刻</YigSculptureLarge.label>
+  <YigSculptureLarge.description>蛇人間の形をした人間大の作品は、芸術的な形状に彫刻されています。</YigSculptureLarge.description>
+  <YigSculptureLarge_Blueprint_Install.label>大きな蛇人間の彫刻 (設計図)</YigSculptureLarge_Blueprint_Install.label>
+  <SculptureCthulhu.label>蛸の様な怪物の彫刻</SculptureCthulhu.label>
+  <SculptureCthulhu.description>車大の素材を彫刻して巨大な球茎の頭部を型どりました。口であろう場所からは触手が伸び、嘲笑の感情が伺えます。</SculptureCthulhu.description>
+  <SculptureCthulhu_Blueprint_Install.label>蛸の様な怪物の彫刻 (設計図)</SculptureCthulhu_Blueprint_Install.label>
+  <SculptureDagon.label>魚頭の怪物の彫刻</SculptureDagon.label>
+  <SculptureDagon.description>&gt;車大の素材を彫刻し深きものの顔を型どりました。その目は大きくて艶があり、真っ白です。歯はあなたの腕とほぼ同じ長さでこれが本物なら一口であなたを飲み込むことができます。 </SculptureDagon.description>
+  <SculptureDagon_Blueprint_Install.label>魚頭の怪物の彫刻 (設計図)</SculptureDagon_Blueprint_Install.label>
+  <SculptureNyarlathotep.label>フードに覆われた怪物の彫刻</SculptureNyarlathotep.label>
+  <SculptureNyarlathotep.description>車大の素材を彫刻して外套を纏った者の形に彫りました。一見すると秩序的な形ですが、潜在する混沌的な風貌に裏切られるでしょう。</SculptureNyarlathotep.description>
+  <SculptureNyarlathotep_Blueprint_Install.label>フードに覆われた怪物の彫刻 (設計図)</SculptureNyarlathotep_Blueprint_Install.label>
+  <SculptureShub.label>山羊に似た怪物の彫刻</SculptureShub.label>
+  <SculptureShub.description>車大の素材を彫刻し山羊の頭に仕立て上げました。後ろ側では見るものを恐れさせるような蔓か触手が絡み合っています。</SculptureShub.description>
+  <SculptureShub_Blueprint_Install.label>山羊に似た怪物の彫刻 (設計図)</SculptureShub_Blueprint_Install.label>
+</LanguageData>
