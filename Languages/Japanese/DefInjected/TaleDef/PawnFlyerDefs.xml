@@ -2,7 +2,7 @@
 <LanguageData>
   <RodeByakhee.label>バイアクヘーに騎乗</RodeByakhee.label>
   <RodeByakhee.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]のバイアクヘーでの飛行</RodeByakhee.rulePack.rulesStrings.0>
-  <RodeByakhee.rulePack.rulesStrings.1>image-&gt;バイアクヘーと飛んでいる[pawn_nameFull] [circumstance_group]</RodeByakhee.rulePack.rulesStrings.1>
+  <RodeByakhee.rulePack.rulesStrings.1>image-&gt; [circumstance_group]、[pawn_nameFull]はバイアクヘーと飛んでいる。</RodeByakhee.rulePack.rulesStrings.1>
   <RodeByakhee.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] soaring through the skies upon a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.2>
   <RodeByakhee.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] sailing through the clouds on a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.3>
   <RodeByakhee.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] riding a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.4>
