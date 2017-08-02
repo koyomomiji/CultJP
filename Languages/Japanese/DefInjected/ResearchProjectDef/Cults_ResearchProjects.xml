@@ -17,4 +17,6 @@
   <Forbidden_Sacrifice.description>より深い信仰心を見せるために祭壇を生贄の祭壇にアップグレード可能になります。</Forbidden_Sacrifice.description>
   <Forbidden_Human.label>[宗教] 人間の生贄</Forbidden_Human.label>
   <Forbidden_Human.description>より深い信仰心を見せるために生贄の祭壇で人間を生け贄にできるようアップグレード可能になります</Forbidden_Human.description>
+  <Forbidden_Obelisks.label>[宗教]オベリスク建造</Forbidden_Obelisks.label>
+  <Forbidden_Obelisks.description>オベリスクの建造が可能になります。</Forbidden_Obelisks.description>
 </LanguageData>
