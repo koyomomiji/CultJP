@@ -1,48 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <FoundedCult.label>founded the local cult</FoundedCult.label>
-  <FoundedCult.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s founding of the cult</FoundedCult.rulePack.rulesStrings.0>
-  <FoundedCult.rulePack.rulesStrings.1>image->[pawn_nameFull]'s formation of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.1>
-  <FoundedCult.rulePack.rulesStrings.2>image->[pawn_nameFull]'s divination of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.2>
-  <FoundedCult.rulePack.rulesStrings.3>image->[pawn_nameFull]'s foundation of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.3>
-  <FoundedCult.rulePack.rulesStrings.4>circumstance_phrase->in front of a [terrainfeature]</FoundedCult.rulePack.rulesStrings.4>
-  <FoundedCult.rulePack.rulesStrings.5>circumstance_phrase->with incredible wisdom</FoundedCult.rulePack.rulesStrings.5>
-  <FoundedCult.rulePack.rulesStrings.6>circumstance_phrase->in utter despair</FoundedCult.rulePack.rulesStrings.6>
-  <FoundedCult.rulePack.rulesStrings.7>circumstance_phrase->with gods unseen, yet watching</FoundedCult.rulePack.rulesStrings.7>
-  <FoundedCult.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] is writing passionately upon a leatherbound tome.</FoundedCult.rulePack.rulesStrings.8>
-  <FoundedCult.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] has [pawn_possessive] eyes closed and is uttering words in unearthly tongues.</FoundedCult.rulePack.rulesStrings.9>
-  <FoundedCult.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is smiling with grim joy.</FoundedCult.rulePack.rulesStrings.10>
-  <FoundedCult.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] seems to have no idea what [pawn_pronoun] is doing.</FoundedCult.rulePack.rulesStrings.11>
-  <FoundedCult.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is shivvering with [pawn_possessive] eyes closed, fearful of [pawn_possessive] discovery.</FoundedCult.rulePack.rulesStrings.12>
-  <FoundedCult.rulePack.rulesStrings.13>desc_sentence->A nearby [animal] is staring, locked on [pawn_objective] with grim and hateful eyes.</FoundedCult.rulePack.rulesStrings.13>
-
+  <FoundedCult.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]'s founding of the cult</FoundedCult.rulePack.rulesStrings.0>
+  <FoundedCult.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull]'s formation of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.1>
+  <FoundedCult.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull]'s divination of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.2>
+  <FoundedCult.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull]'s foundation of the cult [circumstance_group]</FoundedCult.rulePack.rulesStrings.3>
+  <FoundedCult.rulePack.rulesStrings.4>circumstance_phrase-&gt;in front of a [terrainfeature]</FoundedCult.rulePack.rulesStrings.4>
+  <FoundedCult.rulePack.rulesStrings.5>circumstance_phrase-&gt;with incredible wisdom</FoundedCult.rulePack.rulesStrings.5>
+  <FoundedCult.rulePack.rulesStrings.6>circumstance_phrase-&gt;in utter despair</FoundedCult.rulePack.rulesStrings.6>
+  <FoundedCult.rulePack.rulesStrings.7>circumstance_phrase-&gt;with gods unseen, yet watching</FoundedCult.rulePack.rulesStrings.7>
+  <FoundedCult.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_pronoun] is writing passionately upon a leatherbound tome.</FoundedCult.rulePack.rulesStrings.8>
+  <FoundedCult.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_pronoun] has [pawn_possessive] eyes closed and is uttering words in unearthly tongues.</FoundedCult.rulePack.rulesStrings.9>
+  <FoundedCult.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] is smiling with grim joy.</FoundedCult.rulePack.rulesStrings.10>
+  <FoundedCult.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] seems to have no idea what [pawn_pronoun] is doing.</FoundedCult.rulePack.rulesStrings.11>
+  <FoundedCult.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] is shivvering with [pawn_possessive] eyes closed, fearful of [pawn_possessive] discovery.</FoundedCult.rulePack.rulesStrings.12>
+  <FoundedCult.rulePack.rulesStrings.13>desc_sentence-&gt;A nearby [animal] is staring, locked on [pawn_objective] with grim and hateful eyes.</FoundedCult.rulePack.rulesStrings.13>
   <ObservedNightmareTree.label>observed nightmare tree</ObservedNightmareTree.label>
-  <ObservedNightmareTree.rulePack.rulesStrings.0>tale_noun->the time [pawn_nameShortDef] observed an eerie tree</ObservedNightmareTree.rulePack.rulesStrings.0>
-  <ObservedNightmareTree.rulePack.rulesStrings.1>image->[pawn_nameFull] gazing up into the dark branches of an otherworderly tree carved with horrific symbols [circumstance_group]</ObservedNightmareTree.rulePack.rulesStrings.1>
-  <ObservedNightmareTree.rulePack.rulesStrings.2>circumstance_phrase->in absolute confusion</ObservedNightmareTree.rulePack.rulesStrings.2>
-  <ObservedNightmareTree.rulePack.rulesStrings.3>circumstance_phrase->in complete horror</ObservedNightmareTree.rulePack.rulesStrings.3>
-  <ObservedNightmareTree.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</ObservedNightmareTree.rulePack.rulesStrings.4>
-  <ObservedNightmareTree.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] face itself seems to be twisted unnaturally.</ObservedNightmareTree.rulePack.rulesStrings.5>
-  <ObservedNightmareTree.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] is convulsing violently.</ObservedNightmareTree.rulePack.rulesStrings.6>
-
+  <ObservedNightmareTree.rulePack.rulesStrings.0>tale_noun-&gt;the time [pawn_nameShortDef] observed an eerie tree</ObservedNightmareTree.rulePack.rulesStrings.0>
+  <ObservedNightmareTree.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] gazing up into the dark branches of an otherworderly tree carved with horrific symbols [circumstance_group]</ObservedNightmareTree.rulePack.rulesStrings.1>
+  <ObservedNightmareTree.rulePack.rulesStrings.2>circumstance_phrase-&gt;in absolute confusion</ObservedNightmareTree.rulePack.rulesStrings.2>
+  <ObservedNightmareTree.rulePack.rulesStrings.3>circumstance_phrase-&gt;in complete horror</ObservedNightmareTree.rulePack.rulesStrings.3>
+  <ObservedNightmareTree.rulePack.rulesStrings.4>desc_sentence-&gt;[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</ObservedNightmareTree.rulePack.rulesStrings.4>
+  <ObservedNightmareTree.rulePack.rulesStrings.5>desc_sentence-&gt;[pawn_possessive] face itself seems to be twisted unnaturally.</ObservedNightmareTree.rulePack.rulesStrings.5>
+  <ObservedNightmareTree.rulePack.rulesStrings.6>desc_sentence-&gt;[pawn_pronoun] is convulsing violently.</ObservedNightmareTree.rulePack.rulesStrings.6>
   <ObservedNightmareMonolith.label>observed monolith</ObservedNightmareMonolith.label>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] observed a monolith</ObservedNightmareMonolith.rulePack.rulesStrings.0>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.1>image->[pawn_nameFull] stared up the otherworderly monolith that stretched into the clouds [circumstance_group]</ObservedNightmareMonolith.rulePack.rulesStrings.1>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.2>circumstance_phrase->in absolute confusion</ObservedNightmareMonolith.rulePack.rulesStrings.2>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.3>circumstance_phrase->in complete horror</ObservedNightmareMonolith.rulePack.rulesStrings.3>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</ObservedNightmareMonolith.rulePack.rulesStrings.4>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] face itself seems to be twisted unnaturally.</ObservedNightmareMonolith.rulePack.rulesStrings.5>
-  <ObservedNightmareMonolith.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] is convulsing violently.</ObservedNightmareMonolith.rulePack.rulesStrings.6>
-
+  <ObservedNightmareMonolith.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] observed a monolith</ObservedNightmareMonolith.rulePack.rulesStrings.0>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] stared up the otherworderly monolith that stretched into the clouds [circumstance_group]</ObservedNightmareMonolith.rulePack.rulesStrings.1>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.2>circumstance_phrase-&gt;in absolute confusion</ObservedNightmareMonolith.rulePack.rulesStrings.2>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.3>circumstance_phrase-&gt;in complete horror</ObservedNightmareMonolith.rulePack.rulesStrings.3>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.4>desc_sentence-&gt;[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</ObservedNightmareMonolith.rulePack.rulesStrings.4>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.5>desc_sentence-&gt;[pawn_possessive] face itself seems to be twisted unnaturally.</ObservedNightmareMonolith.rulePack.rulesStrings.5>
+  <ObservedNightmareMonolith.rulePack.rulesStrings.6>desc_sentence-&gt;[pawn_pronoun] is convulsing violently.</ObservedNightmareMonolith.rulePack.rulesStrings.6>
   <HeldSermon.label>held sermon</HeldSermon.label>
-  <HeldSermon.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] held a sermon</HeldSermon.rulePack.rulesStrings.0>
-  <HeldSermon.rulePack.rulesStrings.1>image->[pawn_nameFull] stood at the pulpit to deliver a sermon [circumstance_group]</HeldSermon.rulePack.rulesStrings.1>
-  <HeldSermon.rulePack.rulesStrings.2>circumstance_phrase->with absolute conviction</HeldSermon.rulePack.rulesStrings.2>
-  <HeldSermon.rulePack.rulesStrings.3>circumstance_phrase->shaking in fear</HeldSermon.rulePack.rulesStrings.3>
-  <HeldSermon.rulePack.rulesStrings.4>desc_sentence->[pawn_pronoun] foresaw the end of the world.</HeldSermon.rulePack.rulesStrings.4>
-  <HeldSermon.rulePack.rulesStrings.5>desc_sentence->[pawn_possessive] mouth hung open, limp, as otherworldy tentacles reached out behind [pawn_objective].</HeldSermon.rulePack.rulesStrings.5>
-  <HeldSermon.rulePack.rulesStrings.6>desc_sentence->[pawn_pronoun] is being puppeteered by an indescribable creature looming above the temple.</HeldSermon.rulePack.rulesStrings.6>
-
-
+  <HeldSermon.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] held a sermon</HeldSermon.rulePack.rulesStrings.0>
+  <HeldSermon.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] stood at the pulpit to deliver a sermon [circumstance_group]</HeldSermon.rulePack.rulesStrings.1>
+  <HeldSermon.rulePack.rulesStrings.2>circumstance_phrase-&gt;with absolute conviction</HeldSermon.rulePack.rulesStrings.2>
+  <HeldSermon.rulePack.rulesStrings.3>circumstance_phrase-&gt;shaking in fear</HeldSermon.rulePack.rulesStrings.3>
+  <HeldSermon.rulePack.rulesStrings.4>desc_sentence-&gt;[pawn_pronoun] foresaw the end of the world.</HeldSermon.rulePack.rulesStrings.4>
+  <HeldSermon.rulePack.rulesStrings.5>desc_sentence-&gt;[pawn_possessive] mouth hung open, limp, as otherworldy tentacles reached out behind [pawn_objective].</HeldSermon.rulePack.rulesStrings.5>
+  <HeldSermon.rulePack.rulesStrings.6>desc_sentence-&gt;[pawn_pronoun] is being puppeteered by an indescribable creature looming above the temple.</HeldSermon.rulePack.rulesStrings.6>
 </LanguageData>

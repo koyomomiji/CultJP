@@ -3,12 +3,12 @@
   <RodeByakhee.label>バイアクヘーに騎乗</RodeByakhee.label>
   <RodeByakhee.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]のバイアクヘーでの飛行</RodeByakhee.rulePack.rulesStrings.0>
   <RodeByakhee.rulePack.rulesStrings.1>image-&gt; [circumstance_group]、[pawn_nameFull]はバイアクヘーと飛んでいる。</RodeByakhee.rulePack.rulesStrings.1>
-  <RodeByakhee.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] soaring through the skies upon a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.2>
-  <RodeByakhee.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] sailing through the clouds on a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.3>
-  <RodeByakhee.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] riding a Byakhee [circumstance_group]</RodeByakhee.rulePack.rulesStrings.4>
+  <RodeByakhee.rulePack.rulesStrings.2>image-&gt;[circumstance_group]、[pawn_nameFull]はバイアクヘーに乗って空を駆けている。</RodeByakhee.rulePack.rulesStrings.2>
+  <RodeByakhee.rulePack.rulesStrings.3>image-&gt;[circumstance_group]、[pawn_nameFull]は雲海の中を泳いでいる。</RodeByakhee.rulePack.rulesStrings.3>
+  <RodeByakhee.rulePack.rulesStrings.4>image-&gt;[circumstance_group]、[pawn_nameFull]はバイアクヘーに乗っている。</RodeByakhee.rulePack.rulesStrings.4>
   <RodeByakhee.rulePack.rulesStrings.5>circumstance_phrase-&gt;[terrainfeature]を 目前にして</RodeByakhee.rulePack.rulesStrings.5>
   <RodeByakhee.rulePack.rulesStrings.6>circumstance_phrase-&gt;いきなり 途方もない力を 受けつつあり</RodeByakhee.rulePack.rulesStrings.6>
-  <RodeByakhee.rulePack.rulesStrings.7>circumstance_phrase-&gt;高速度で 吹き出した チリや 隕石群に 襲われてしまい</RodeByakhee.rulePack.rulesStrings.7>
+  <RodeByakhee.rulePack.rulesStrings.7>circumstance_phrase-&gt;高速度で 吹き出した チリや 隕石群に 襲われつつ</RodeByakhee.rulePack.rulesStrings.7>
   <RodeByakhee.rulePack.rulesStrings.8>circumstance_phrase-&gt;バイアクヘーが異言語を唸る中で</RodeByakhee.rulePack.rulesStrings.8>
   <RodeByakhee.rulePack.rulesStrings.9>circumstance_phrase-&gt;精密着陸操作を 行っている 最中に</RodeByakhee.rulePack.rulesStrings.9>
   <RodeByakhee.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun]は、 姿勢制御だけ 一点に 集中している。</RodeByakhee.rulePack.rulesStrings.10>
